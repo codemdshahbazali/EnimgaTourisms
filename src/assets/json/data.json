@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "site": {
+      "state": "maharashtra",
+      "city": "mumbai",
+      "places": {
+        "id": 1,
+        "name": "The Gateway of India",
+        "description": "The Gateway of India is an arch-monument built in the early 20th century in the city of Mumbai, India. It was erected to commemorate the landing in December 1911 at Wellington Pier, Mumbai of King-Emperor George V and Queen-Empress Mary, the first British monarch to visit India.",
+        "url": "https://lh5.googleusercontent.com/p/AF1QipM5-qtY73vPmb3xfO5Qd427Ie0BFmsIFYCf9yWa=s603-k-no",
+        "p1": "The gateway is amongst the prime tourist attractions in Mumbai. The gateway is a protected monument in Maharashtra under the aegis of the Archaeological Survey of India (ASI).It is a regular gathering place for locals, street vendors, and photographers In 2012, the Maharashtra Tourism Development Corporation moved the Elephanta Festival of Music and Dance from its original location at Elephanta Caves — where it had been celebrated for 23 years — to the gateway, due to the increased capacity offered by the venue. The gateway can host 2,000 to 2,500 people, whereas Elephanta Caves could host only 700 to 800.",
+        "p2": "The gateway stands at an angle, opposite to the Taj Mahal Palace and Tower Hotel, which was built in 1903 In the grounds of the gateway, opposite the monument, stands the statue of Shivaji, the Maratha warrior-hero who fought against the Mughal empire to establish the Maratha empire in the 17th century. The statue was unveiled on 26 January 1961 on the occasion of India's Republic Day .It replaced a bronze statue of King-Emperor George V which stood at its place. In 2016, Mid-Day reported that the George V statue is kept locked in a tin shed belonging to the Public Works Department, behind Elphinstone College, in Fort, Mumbai. The George V statue was sculpted by G. K. Mhatre, who has over 300 sculptures to his credit in India. Hemant Pathare, Mhatre's great-grandson and Sandeep Dahisarkar, a historian, researcher, and academician, have made efforts to relocate the George V statue to a museum, the latter of whom has reasserted the statue as swadeshi art. The other statue in the locality of the gateway is that of Swami Vivekananda, an Indian monk who is credited as a key figure in the introduction of Indian philosophies such as Vedanta and Yoga to the west, and with bringing Hinduism to the status of a major world religion during the late 19th century .",
+        "p3": "The gateway was built to commemorate the arrival of George V, Emperor of India and Mary of Teck, Empress consort, in India at Apollo Bunder, Mumbai (then Bombay) on 2 December 1911 prior to the Delhi Durbar of 1911; it was the first visit of a British monarch to India. However, they only got to see a cardboard model of the monument,as construction did not begin until 1915. The foundation stone for the gateway was laid on 31 March 1913 by then governor of Bombay, Sir George Sydenham Clarke with the final design of George Wittet for the gateway sanctioned in August 1914. Before the gateway's construction, Apollo Bunder used to serve a native fishing ground.Between 1915 and 1919 work continued at the Apollo Bunder to reclaim the land on which the gateway was to be built, along with the construction of a sea wall. ",
+        "p4": " the gateway was used as a symbolic ceremonial entrance to British India for important colonial personnel. It has been called a symbol of conquest and colonisation commemorating British colonial legacy. The gateway is also the monument from where the last British troops left India in 1948, following Indian independence. It is located on the waterfront at an angle, opposite the Taj Mahal Palace and Tower Hotel and overlooks the Arabian Sea. Today, the monument is synonymous with the city of Mumbai, and is amongst its prime tourist attractions. The gateway is also a gathering spot for locals, street vendors, and photographers soliciting services. It holds significance for the local Jewish community as it has been the spot for Hanukkah celebrations, with the lighting of the menorah, since 2003. There are five jetties located at the gateway, of which two are used for commercial ferry operations.",
+        "nearByResturants": [
+          {
+            "id": "0",
+            "type": "non-veg",
+            "name": "Golden Dragon",
+            "imgUrl": "./ImgSrc/place0/nearByResturants0.jpg",
+            "rating": "5",
+            "address": "The Taj Mahal Palace Hotel, Apollo Bunder, Colaba, Colaba, Mumbai, Maharashtra 400001",
+            "url": "https://goo.gl/maps/1ysXyDv3rsz6jc3X9"
+          },
+          {
+            "id": "1",
+            "type": "non-veg",
+            "name": "The Table",
+            "imgUrl": "./ImgSrc/place0/nearByResturants1.jpg",
+            "rating": "4",
+            "address": "Dhanraj Mahal, Ground Floor, Kalapesi Trust, Marg, below Hotel Suba Palace, Apollo Bandar, Colaba, Mumbai, Maharashtra 400039",
+            "url": "https://goo.gl/maps/CxX7PsAAVZEDKNGm7"
+          },
+          {
+            "id": "2",
+            "type": "veg",
+            "name": "Souk",
+            "imgUrl": "./ImgSrc/place0/nearByResturants1.jpg",
+            "rating": "5",
+            "address": "The Taj Mahal Palace Hotel, Apollo Bunder, Colaba, Colaba, Mumbai, Maharashtra 400001",
+            "url": "https://goo.gl/maps/BQ6hfH5tZBE8huEg9"
+          }
+        ],
+        "nearByHotels": [
+          {
+            "id": "0",
+            "name": "Taj Mahal Tower, Mumbai",
+            "imgUrl": "./ImgSrc/place0/Hotel0.jpg",
+            "rating": "5",
+            "address": "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001•022 6665 3366",
+            "url": "https://www.google.com/travel/hotels/s/oZmd6"
+          },
+          {
+            "id": "1",
+            "name": "President Mumbai ",
+            "imgUrl": "./ImgSrc/place0/Hotel1.jpg",
+            "rating": "5",
+            "address": "IHCL SeleQtions, 90, Cuffe Parade, Mumbai, Maharashtra 400005•",
+            "url": "https://www.google.com/travel/hotels/s/gBgoU"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": 2,
+    "site": {
+      "state": "Telangana",
+      "city": "Hyderabad",
+      "places": {
+        "id": 2,
+        "name": "Mecca Masjid",
+        "description": "Makkah Masjid or Mecca Masjid, is a congregational mosque in Hyderabad, India. It is one of the largest mosques in India with a capacity of 10,000 people. The mosque was built during the 17th century, and is a state-protected monument.",
+        "url": "https://lh3.ggpht.com/p/AF1QipMevUM1eIw0i5jsa972mBLzo_8BkUC9OwLFs4IS=s1536",
+        "p1": "Construction of Hyderabad's Mecca Masjid, one of the world's largest mosques-and one of the oldest in India-began in 1614 during Mohammed Quli Qutub Shah's reign and took almost 80 years to complete. Large enough to accommodate 10,000 worshipers, this beautiful mosque's 15 enormous arches and pillars were each wrought from single slabs of black granite dragged to the site by huge cattle trains reputedly consisting of up to 1,400 bulls.",
+        "p2": "Taking its name from the bricks above the central gate that were brought here from Mecca, this impressive complex features highlights such as its main gateway, huge plaza, a large manmade pond, and a room that houses the hair of Prophet Mohammed. Other notable features include inscriptions from the Quran above many of the arches and doors, the exquisite roof of the main hall, the cornices around the entire mosque structure, and the floral motifs and friezes over the arches.",
+        "p3": "The construction of the Makkah Masjid began in the year 1617 CE, during the reign of Muhammad Quli Qutb Shah, the fifth Qutb Shahi Sultan of Golconda (now Hyderabad). The ruler personally laid its foundation stone. Around 8,000 workers were employed to build the mosque. It was completed by Mughal Emperor Aurangzeb in 1693. The three arched facades[dubious – discuss] have been carved from a single piece of granite, which took five years to quarry. ",
+        "p4": " The Mecca Masjid is considered to be one of the best architectural works of the Qutb Shahis. It is constructed entirely of dressed stone, rather than rubble or plaster. The mosque's prayer hall measures 225 feet (69 m) by 180 feet (55 m), and has a 75 feet (23 m) high ceiling. The facade of the prayer hall features five open arches, and is flanked by two minarets. Each minaret is topped by a dome, and adjoined to an arcaded balcony lining either side of the prayer hall.",
+        "nearByResturants": [
+          {
+            "id": "0",
+            "type": "veg",
+            "name": "Hotel Shadab",
+            "imgUrl": "./ImgSrc/nearByResturants0.jpg",
+            "rating": "5",
+            "address": "Madina Circle, 21-1-140-144, Near High Court, High Court Rd, Charminar, Ghansi Bazaar, Hyderabad, Telangana 500012",
+            "url": "https://goo.gl/maps/yxAyocTU27B8Kki69"
+          },
+          {
+            "id": "1",
+            "type": "non-veg",
+            "name": "Hotel Nayaab",
+            "imgUrl": "./ImgSrc/place1/nearByResturants1.jpg",
+            "rating": "4",
+            "address": "Dhanraj Mahal, Ground Floor, Kalapesi Trust, Marg, below Hotel Suba Palace, Apollo Bandar, Colaba, Mumbai, Maharashtra 400039",
+            "url": "https://goo.gl/maps/CxX7PsAAVZEDKNGm7"
+          }
+        ],
+        "nearByHotels": [
+          {
+            "id": "0",
+            "name": "Metro Lodge",
+            "imgUrl": "./ImgSrc/place1/Hotel0.jpg",
+            "rating": "4",
+            "address": "20-4-1204/A In the Lane, opposite to Anmol/Fine Bangles, Laad Bazar, Charminar, Hyderabad, Telangana 500002",
+            "url": "https://goo.gl/maps/72AM1EoeYFJjFURJ6"
+          },
+          {
+            "id": "1",
+            "name": "Hotel Ruma",
+            "imgUrl": "./ImgSrc/Hotel1.jpg",
+            "rating": "3",
+            "address": "Plot 5-8-322/15 Umabagh, Nampally, Hyderabad, Telangana 500001",
+            "url": "https://goo.gl/maps/Wm3ujhQbdLTjjbBS9"
+          }
+        ]
+      }
+    }
+  }
+]

@@ -1,0 +1,24 @@
+.feature-container-fluid p {
+  color: #8f8f8f;
+}
+
+/* Containers */
+
+.feature-container-fluid {
+  font-family: 'Montserrat';
+  text-align: center;
+  padding: 7% 15%;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.feature-icons {
+  color: lightblue;
+  margin-bottom: 1rem;
+}
+
+.feature-icons:hover {
+  color: rgb(80, 177, 238);
+}

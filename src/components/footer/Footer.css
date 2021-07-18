@@ -1,0 +1,24 @@
+.cpyrt {
+  font-size: 1.3rem;
+  color: grey;
+}
+
+.footer_icons {
+  margin: auto 20px 10px;
+}
+
+#footer {
+  font-family: 'Montserrat';
+  text-align: center;
+  padding-top: 100px;
+}
+
+#footer a {
+  color: black;
+}
+
+.footer-container-fluid {
+  font-family: 'Montserrat';
+  text-align: center;
+  padding: 2% 15%;
+}

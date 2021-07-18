@@ -1,3 +1,21 @@
+
+Header Component ->
+    Navbar (AirBnb reference - https://www.airbnb.co.in/)
+    Carousel
+
+Card Section Component
+    Card section (Popular Destination)
+        - sub section (cards)
+            - resturants, accomodations, 
+
+Form Component
+    Form section
+Feature Component
+    Features Section
+Footer Component
+    Footer
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
