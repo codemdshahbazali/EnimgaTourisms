@@ -1,16 +1,23 @@
 import React from 'react';
+import { useHistory } from 'react-router-dom';
 import './Place.css';
 
 function Place(props) {
+  let history = useHistory();
+  const { assignPlace, place } = props;
+
   return (
-    <div class='card' style={{ width: '18rem' }}>
-      <img src={props.place.url} class='card-img-top' alt='...' />
-      <div class='card-body'>
-        <h5 class='card-title'>{props.place.name}</h5>
-        <p class='card-text'>{props.place.description}</p>
-        <a href='#' class='btn btn-primary'>
-          Go somewhere
-        </a>
+    <div
+      className='card '
+      style={{ width: '22rem', height: '25rem' }}
+      onClick={() => {
+        assignPlace(place);
+        history.push('/cardDetails');
+      }}>
+      <img src={place.site.places.url} className='card-img-top' alt='...' />
+      <div className='card-body'>
+        <h5 className='card-title'>{place.site.places.name}</h5>
+        <p className='card-text'>{place.site.places.description}</p>
       </div>
     </div>
   );

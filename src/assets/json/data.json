@@ -1,121 +1,837 @@
 [
-  {
-    "id": 1,
-    "site": {
-      "state": "maharashtra",
-      "city": "mumbai",
-      "places": {
-        "id": 1,
-        "name": "The Gateway of India",
-        "description": "The Gateway of India is an arch-monument built in the early 20th century in the city of Mumbai, India. It was erected to commemorate the landing in December 1911 at Wellington Pier, Mumbai of King-Emperor George V and Queen-Empress Mary, the first British monarch to visit India.",
-        "url": "https://lh5.googleusercontent.com/p/AF1QipM5-qtY73vPmb3xfO5Qd427Ie0BFmsIFYCf9yWa=s603-k-no",
-        "p1": "The gateway is amongst the prime tourist attractions in Mumbai. The gateway is a protected monument in Maharashtra under the aegis of the Archaeological Survey of India (ASI).It is a regular gathering place for locals, street vendors, and photographers In 2012, the Maharashtra Tourism Development Corporation moved the Elephanta Festival of Music and Dance from its original location at Elephanta Caves — where it had been celebrated for 23 years — to the gateway, due to the increased capacity offered by the venue. The gateway can host 2,000 to 2,500 people, whereas Elephanta Caves could host only 700 to 800.",
-        "p2": "The gateway stands at an angle, opposite to the Taj Mahal Palace and Tower Hotel, which was built in 1903 In the grounds of the gateway, opposite the monument, stands the statue of Shivaji, the Maratha warrior-hero who fought against the Mughal empire to establish the Maratha empire in the 17th century. The statue was unveiled on 26 January 1961 on the occasion of India's Republic Day .It replaced a bronze statue of King-Emperor George V which stood at its place. In 2016, Mid-Day reported that the George V statue is kept locked in a tin shed belonging to the Public Works Department, behind Elphinstone College, in Fort, Mumbai. The George V statue was sculpted by G. K. Mhatre, who has over 300 sculptures to his credit in India. Hemant Pathare, Mhatre's great-grandson and Sandeep Dahisarkar, a historian, researcher, and academician, have made efforts to relocate the George V statue to a museum, the latter of whom has reasserted the statue as swadeshi art. The other statue in the locality of the gateway is that of Swami Vivekananda, an Indian monk who is credited as a key figure in the introduction of Indian philosophies such as Vedanta and Yoga to the west, and with bringing Hinduism to the status of a major world religion during the late 19th century .",
-        "p3": "The gateway was built to commemorate the arrival of George V, Emperor of India and Mary of Teck, Empress consort, in India at Apollo Bunder, Mumbai (then Bombay) on 2 December 1911 prior to the Delhi Durbar of 1911; it was the first visit of a British monarch to India. However, they only got to see a cardboard model of the monument,as construction did not begin until 1915. The foundation stone for the gateway was laid on 31 March 1913 by then governor of Bombay, Sir George Sydenham Clarke with the final design of George Wittet for the gateway sanctioned in August 1914. Before the gateway's construction, Apollo Bunder used to serve a native fishing ground.Between 1915 and 1919 work continued at the Apollo Bunder to reclaim the land on which the gateway was to be built, along with the construction of a sea wall. ",
-        "p4": " the gateway was used as a symbolic ceremonial entrance to British India for important colonial personnel. It has been called a symbol of conquest and colonisation commemorating British colonial legacy. The gateway is also the monument from where the last British troops left India in 1948, following Indian independence. It is located on the waterfront at an angle, opposite the Taj Mahal Palace and Tower Hotel and overlooks the Arabian Sea. Today, the monument is synonymous with the city of Mumbai, and is amongst its prime tourist attractions. The gateway is also a gathering spot for locals, street vendors, and photographers soliciting services. It holds significance for the local Jewish community as it has been the spot for Hanukkah celebrations, with the lighting of the menorah, since 2003. There are five jetties located at the gateway, of which two are used for commercial ferry operations.",
-        "nearByResturants": [
-          {
-            "id": "0",
-            "type": "non-veg",
-            "name": "Golden Dragon",
-            "imgUrl": "./ImgSrc/place0/nearByResturants0.jpg",
-            "rating": "5",
-            "address": "The Taj Mahal Palace Hotel, Apollo Bunder, Colaba, Colaba, Mumbai, Maharashtra 400001",
-            "url": "https://goo.gl/maps/1ysXyDv3rsz6jc3X9"
-          },
-          {
-            "id": "1",
-            "type": "non-veg",
-            "name": "The Table",
-            "imgUrl": "./ImgSrc/place0/nearByResturants1.jpg",
-            "rating": "4",
-            "address": "Dhanraj Mahal, Ground Floor, Kalapesi Trust, Marg, below Hotel Suba Palace, Apollo Bandar, Colaba, Mumbai, Maharashtra 400039",
-            "url": "https://goo.gl/maps/CxX7PsAAVZEDKNGm7"
-          },
-          {
-            "id": "2",
-            "type": "veg",
-            "name": "Souk",
-            "imgUrl": "./ImgSrc/place0/nearByResturants1.jpg",
-            "rating": "5",
-            "address": "The Taj Mahal Palace Hotel, Apollo Bunder, Colaba, Colaba, Mumbai, Maharashtra 400001",
-            "url": "https://goo.gl/maps/BQ6hfH5tZBE8huEg9"
-          }
-        ],
-        "nearByHotels": [
-          {
-            "id": "0",
-            "name": "Taj Mahal Tower, Mumbai",
-            "imgUrl": "./ImgSrc/place0/Hotel0.jpg",
-            "rating": "5",
-            "address": "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001•022 6665 3366",
-            "url": "https://www.google.com/travel/hotels/s/oZmd6"
-          },
-          {
-            "id": "1",
-            "name": "President Mumbai ",
-            "imgUrl": "./ImgSrc/place0/Hotel1.jpg",
-            "rating": "5",
-            "address": "IHCL SeleQtions, 90, Cuffe Parade, Mumbai, Maharashtra 400005•",
-            "url": "https://www.google.com/travel/hotels/s/gBgoU"
-          }
-        ]
-      }
-    }
-  },
-  {
-    "id": 2,
-    "site": {
-      "state": "Telangana",
-      "city": "Hyderabad",
-      "places": {
-        "id": 2,
-        "name": "Mecca Masjid",
-        "description": "Makkah Masjid or Mecca Masjid, is a congregational mosque in Hyderabad, India. It is one of the largest mosques in India with a capacity of 10,000 people. The mosque was built during the 17th century, and is a state-protected monument.",
-        "url": "https://lh3.ggpht.com/p/AF1QipMevUM1eIw0i5jsa972mBLzo_8BkUC9OwLFs4IS=s1536",
-        "p1": "Construction of Hyderabad's Mecca Masjid, one of the world's largest mosques-and one of the oldest in India-began in 1614 during Mohammed Quli Qutub Shah's reign and took almost 80 years to complete. Large enough to accommodate 10,000 worshipers, this beautiful mosque's 15 enormous arches and pillars were each wrought from single slabs of black granite dragged to the site by huge cattle trains reputedly consisting of up to 1,400 bulls.",
-        "p2": "Taking its name from the bricks above the central gate that were brought here from Mecca, this impressive complex features highlights such as its main gateway, huge plaza, a large manmade pond, and a room that houses the hair of Prophet Mohammed. Other notable features include inscriptions from the Quran above many of the arches and doors, the exquisite roof of the main hall, the cornices around the entire mosque structure, and the floral motifs and friezes over the arches.",
-        "p3": "The construction of the Makkah Masjid began in the year 1617 CE, during the reign of Muhammad Quli Qutb Shah, the fifth Qutb Shahi Sultan of Golconda (now Hyderabad). The ruler personally laid its foundation stone. Around 8,000 workers were employed to build the mosque. It was completed by Mughal Emperor Aurangzeb in 1693. The three arched facades[dubious – discuss] have been carved from a single piece of granite, which took five years to quarry. ",
-        "p4": " The Mecca Masjid is considered to be one of the best architectural works of the Qutb Shahis. It is constructed entirely of dressed stone, rather than rubble or plaster. The mosque's prayer hall measures 225 feet (69 m) by 180 feet (55 m), and has a 75 feet (23 m) high ceiling. The facade of the prayer hall features five open arches, and is flanked by two minarets. Each minaret is topped by a dome, and adjoined to an arcaded balcony lining either side of the prayer hall.",
-        "nearByResturants": [
-          {
-            "id": "0",
-            "type": "veg",
-            "name": "Hotel Shadab",
-            "imgUrl": "./ImgSrc/nearByResturants0.jpg",
-            "rating": "5",
-            "address": "Madina Circle, 21-1-140-144, Near High Court, High Court Rd, Charminar, Ghansi Bazaar, Hyderabad, Telangana 500012",
-            "url": "https://goo.gl/maps/yxAyocTU27B8Kki69"
-          },
-          {
-            "id": "1",
-            "type": "non-veg",
-            "name": "Hotel Nayaab",
-            "imgUrl": "./ImgSrc/place1/nearByResturants1.jpg",
-            "rating": "4",
-            "address": "Dhanraj Mahal, Ground Floor, Kalapesi Trust, Marg, below Hotel Suba Palace, Apollo Bandar, Colaba, Mumbai, Maharashtra 400039",
-            "url": "https://goo.gl/maps/CxX7PsAAVZEDKNGm7"
-          }
-        ],
-        "nearByHotels": [
-          {
-            "id": "0",
-            "name": "Metro Lodge",
-            "imgUrl": "./ImgSrc/place1/Hotel0.jpg",
-            "rating": "4",
-            "address": "20-4-1204/A In the Lane, opposite to Anmol/Fine Bangles, Laad Bazar, Charminar, Hyderabad, Telangana 500002",
-            "url": "https://goo.gl/maps/72AM1EoeYFJjFURJ6"
-          },
-          {
-            "id": "1",
-            "name": "Hotel Ruma",
-            "imgUrl": "./ImgSrc/Hotel1.jpg",
-            "rating": "3",
-            "address": "Plot 5-8-322/15 Umabagh, Nampally, Hyderabad, Telangana 500001",
-            "url": "https://goo.gl/maps/Wm3ujhQbdLTjjbBS9"
-          }
-        ]
-      }
-    }
-  }
+	{
+		"id": 1,
+		"site": {
+			"state": "maharashtra",
+			"city": "mumbai",
+			"places": {
+				"id": 1,
+				"name": "The Gateway of India",
+				"description": "The Gateway of India is an arch-monument built in the early 20th century in the city of Mumbai, India. It was erected to commemorate the landing in December 1911 at Wellington Pier, Mumbai of King-Emperor George V and Queen-Empress Mary, the first British monarch to visit India.",
+				"url": "https://lh3.googleusercontent.com/EFOAtyYmLxlX-MZK3Lnu4FUIoNLCvw4vQxNg_pH7laRvP-CGcNrzDeSEZ71d9QtmANyKXnBIf1SFYX8MZDWoC9_fObof48EsteGElcFkMcX7Z15Njo_Nzu80gnf9LOrvyB0Z3PhcJJmxAq13zcs9fj5lOIMvv24eVG7VD2nb8MWiHieb_ge3gsG_-6slcCFzqr9zSMvPHdMH5uqiYkdzZLLmaiZywzwR5Z27VnCoHMkmYbGDqcRFQKyvq5EsIjNuNyh39mQye56Zi7r9PTLK7H7Ay-dqf_UkvGJrmR6j1M_Xntt840p8ByT-2Y60eS1ELWCR4MuBvUNRu6gFF8EXe-8NcQlxUBmssI9vtfgZIDfqUQaXXIQQdVtp4n-lJ-TRIP_SMLEvew95VvqvB8H7dkETxwc3BWlmlxRCDSsg1UKM91FAHFUqDFu7BZegYYK_N0rPkbXdRn9SKkbzOVz-0AdEoKwNIdqqvL2-JBxHu6L6jHM50xx-9PgTYSyRMKGQPII_L78y4JEhs2HDsck8ctKJiUjwGL4oHMJ6cbXyityYfJu01GoreBvgq57UHVhtRVXFGHO5RA0sd0yr0hARWc6bNp3WWAD7HX1af1FRFCxf8hWzo3_GpJp2oURaDpaAhFWPZeVDbzi-1yuNDcY867tMVk92NKXxg-EcfR0ZH_hjZCYaZ-7NBaLyO3x0yEYjNU9yhtxdcblQ7d6HIMbCKH4=w1588-h893-no?authuser=1",
+				"p1": "The gateway is amongst the prime tourist attractions in Mumbai. The gateway is a protected monument in Maharashtra under the aegis of the Archaeological Survey of India (ASI).It is a regular gathering place for locals, street vendors, and photographers In 2012, the Maharashtra Tourism Development Corporation moved the Elephanta Festival of Music and Dance from its original location at Elephanta Caves — where it had been celebrated for 23 years — to the gateway, due to the increased capacity offered by the venue. The gateway can host 2,000 to 2,500 people, whereas Elephanta Caves could host only 700 to 800.",
+				"p2": "The gateway stands at an angle, opposite to the Taj Mahal Palace and Tower Hotel, which was built in 1903 In the grounds of the gateway, opposite the monument, stands the statue of Shivaji, the Maratha warrior-hero who fought against the Mughal empire to establish the Maratha empire in the 17th century. The statue was unveiled on 26 January 1961 on the occasion of India's Republic Day .It replaced a bronze statue of King-Emperor George V which stood at its place. In 2016, Mid-Day reported that the George V statue is kept locked in a tin shed belonging to the Public Works Department, behind Elphinstone College, in Fort, Mumbai. The George V statue was sculpted by G. K. Mhatre, who has over 300 sculptures to his credit in India. Hemant Pathare, Mhatre's great-grandson and Sandeep Dahisarkar, a historian, researcher, and academician, have made efforts to relocate the George V statue to a museum, the latter of whom has reasserted the statue as swadeshi art. The other statue in the locality of the gateway is that of Swami Vivekananda, an Indian monk who is credited as a key figure in the introduction of Indian philosophies such as Vedanta and Yoga to the west, and with bringing Hinduism to the status of a major world religion during the late 19th century .",
+				"p3": "The gateway was built to commemorate the arrival of George V, Emperor of India and Mary of Teck, Empress consort, in India at Apollo Bunder, Mumbai (then Bombay) on 2 December 1911 prior to the Delhi Durbar of 1911; it was the first visit of a British monarch to India. However, they only got to see a cardboard model of the monument,as construction did not begin until 1915. The foundation stone for the gateway was laid on 31 March 1913 by then governor of Bombay, Sir George Sydenham Clarke with the final design of George Wittet for the gateway sanctioned in August 1914. Before the gateway's construction, Apollo Bunder used to serve a native fishing ground.Between 1915 and 1919 work continued at the Apollo Bunder to reclaim the land on which the gateway was to be built, along with the construction of a sea wall. ",
+				"p4": " the gateway was used as a symbolic ceremonial entrance to British India for important colonial personnel. It has been called a symbol of conquest and colonisation commemorating British colonial legacy. The gateway is also the monument from where the last British troops left India in 1948, following Indian independence. It is located on the waterfront at an angle, opposite the Taj Mahal Palace and Tower Hotel and overlooks the Arabian Sea. Today, the monument is synonymous with the city of Mumbai, and is amongst its prime tourist attractions. The gateway is also a gathering spot for locals, street vendors, and photographers soliciting services. It holds significance for the local Jewish community as it has been the spot for Hanukkah celebrations, with the lighting of the menorah, since 2003. There are five jetties located at the gateway, of which two are used for commercial ferry operations.",
+				"nearByResturants": [
+					{
+						"id": "0",
+						"type": "non-veg",
+						"name": "Golden Dragon",
+						"imgUrl": "./ImgSrc/place0/nearByResturants0.jpg",
+						"rating": "5",
+						"address": "The Taj Mahal Palace Hotel, Apollo Bunder, Colaba, Colaba, Mumbai, Maharashtra 400001",
+						"url": "https://goo.gl/maps/1ysXyDv3rsz6jc3X9"
+					},
+					{
+						"id": "1",
+						"type": "non-veg",
+						"name": "The Table",
+						"imgUrl": "./ImgSrc/place0/nearByResturants1.jpg",
+						"rating": "4",
+						"address": "Dhanraj Mahal, Ground Floor, Kalapesi Trust, Marg, below Hotel Suba Palace, Apollo Bandar, Colaba, Mumbai, Maharashtra 400039",
+						"url": "https://goo.gl/maps/CxX7PsAAVZEDKNGm7"
+					},
+					{
+						"id": "2",
+						"type": "veg",
+						"name": "Souk",
+						"imgUrl": "./ImgSrc/place0/nearByResturants1.jpg",
+						"rating": "5",
+						"address": "The Taj Mahal Palace Hotel, Apollo Bunder, Colaba, Colaba, Mumbai, Maharashtra 400001",
+						"url": "https://goo.gl/maps/BQ6hfH5tZBE8huEg9"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "0",
+						"name": "Taj Mahal Tower, Mumbai",
+						"imgUrl": "./ImgSrc/place0/Hotel0.jpg",
+						"rating": "5",
+						"address": "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001•022 6665 3366",
+						"url": "https://www.google.com/travel/hotels/s/oZmd6"
+					},
+					{
+						"id": "1",
+						"name": "President Mumbai ",
+						"imgUrl": "./ImgSrc/place0/Hotel1.jpg",
+						"rating": "5",
+						"address": "IHCL SeleQtions, 90, Cuffe Parade, Mumbai, Maharashtra 400005•",
+						"url": "https://www.google.com/travel/hotels/s/gBgoU"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 2,
+		"site": {
+			"state": "Telangana",
+			"city": "Hyderabad",
+			"places": {
+				"id": 2,
+				"name": "Mecca Masjid",
+				"description": "Makkah Masjid or Mecca Masjid, is a congregational mosque in Hyderabad, India. It is one of the largest mosques in India with a capacity of 10,000 people. The mosque was built during the 17th century, and is a state-protected monument.",
+				"url": "https://lh3.ggpht.com/p/AF1QipMevUM1eIw0i5jsa972mBLzo_8BkUC9OwLFs4IS=s1536",
+				"p1": "Construction of Hyderabad's Mecca Masjid, one of the world's largest mosques-and one of the oldest in India-began in 1614 during Mohammed Quli Qutub Shah's reign and took almost 80 years to complete. Large enough to accommodate 10,000 worshipers, this beautiful mosque's 15 enormous arches and pillars were each wrought from single slabs of black granite dragged to the site by huge cattle trains reputedly consisting of up to 1,400 bulls.",
+				"p2": "Taking its name from the bricks above the central gate that were brought here from Mecca, this impressive complex features highlights such as its main gateway, huge plaza, a large manmade pond, and a room that houses the hair of Prophet Mohammed. Other notable features include inscriptions from the Quran above many of the arches and doors, the exquisite roof of the main hall, the cornices around the entire mosque structure, and the floral motifs and friezes over the arches.",
+				"p3": "The construction of the Makkah Masjid began in the year 1617 CE, during the reign of Muhammad Quli Qutb Shah, the fifth Qutb Shahi Sultan of Golconda (now Hyderabad). The ruler personally laid its foundation stone. Around 8,000 workers were employed to build the mosque. It was completed by Mughal Emperor Aurangzeb in 1693. The three arched facades[dubious – discuss] have been carved from a single piece of granite, which took five years to quarry. ",
+				"p4": " The Mecca Masjid is considered to be one of the best architectural works of the Qutb Shahis. It is constructed entirely of dressed stone, rather than rubble or plaster. The mosque's prayer hall measures 225 feet (69 m) by 180 feet (55 m), and has a 75 feet (23 m) high ceiling. The facade of the prayer hall features five open arches, and is flanked by two minarets. Each minaret is topped by a dome, and adjoined to an arcaded balcony lining either side of the prayer hall.",
+				"nearByResturants": [
+					{
+						"id": "0",
+						"type": "veg",
+						"name": "Hotel Shadab",
+						"imgUrl": "./ImgSrc/nearByResturants0.jpg",
+						"rating": "5",
+						"address": "Madina Circle, 21-1-140-144, Near High Court, High Court Rd, Charminar, Ghansi Bazaar, Hyderabad, Telangana 500012",
+						"url": "https://goo.gl/maps/yxAyocTU27B8Kki69"
+					},
+					{
+						"id": "1",
+						"type": "non-veg",
+						"name": "Hotel Nayaab",
+						"imgUrl": "./ImgSrc/place1/nearByResturants1.jpg",
+						"rating": "4",
+						"address": "Dhanraj Mahal, Ground Floor, Kalapesi Trust, Marg, below Hotel Suba Palace, Apollo Bandar, Colaba, Mumbai, Maharashtra 400039",
+						"url": "https://goo.gl/maps/CxX7PsAAVZEDKNGm7"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "0",
+						"name": "Metro Lodge",
+						"imgUrl": "./ImgSrc/place1/Hotel0.jpg",
+						"rating": "4",
+						"address": "20-4-1204/A In the Lane, opposite to Anmol/Fine Bangles, Laad Bazar, Charminar, Hyderabad, Telangana 500002",
+						"url": "https://goo.gl/maps/72AM1EoeYFJjFURJ6"
+					},
+					{
+						"id": "1",
+						"name": "Hotel Ruma",
+						"imgUrl": "./ImgSrc/Hotel1.jpg",
+						"rating": "3",
+						"address": "Plot 5-8-322/15 Umabagh, Nampally, Hyderabad, Telangana 500001",
+						"url": "https://goo.gl/maps/Wm3ujhQbdLTjjbBS9"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 3,
+		"site": {
+			"state": "UP",
+			"city": "agra",
+			"places": {
+				"id": 2,
+				"name": "Taj Mahal",
+				"description": "The Taj Mahal, is an ivory-white marble mausoleum on the southern bank of the river Yamuna in the Indian city of Agra. It was commissioned in 1632 by the Mughal emperor Shah Jahan to house the tomb of his favourite wife, Mumtaz Mahal; it also houses the tomb of Shah Jahan himself",
+				"url": "https://lh3.googleusercontent.com/CmZUngqb60lWgpy42rqP59d516K3i16Tr8U9Z-GFLyrlg6aTyFXu9kYjOJuY6BLUesUqxm3l_x6o-JKgxRMkjiT8Z-RIHwrn3cEdEryJIt70CppWrSOxBfXjd5MC28Pb1GayLbp8BsZAA6xcEiPKzxMbJyWxUV2Nd5XvrJ7OW3wry4lMUlAwMSt3PCrTaz4zcrO1-5n4rPW_LsFZjNw9_QgjxTqLXwzox-a5mte3wNtvhrCkke3swHfQieWvcyH0ERWibiCtdbTwsXwlRb34qOMLofdPCnYpLElJuqGDEMmnq82yfUcPRy61dIB-3Fd5VXvwMPB3s83k-nIBCmTSnPew8JtNqho8t5xhVfZXCJYFktEgGBCk9qAI7QNZa2e3K94zS3-jGg61Wb3qUI2fpQDhJTfBPVGlpbqiXvdfDoy4qB6ZHR57p_TtBofjDxhpCGyWCldj4AMBJsfUbzCsEapI1uTv-ycuu9YLWo_1l93--daP3dhW2xikPrZEe7VmFX-f68yHHOJChFJZm6DEyCndOudI3HOGzkiICzxasWz43060FPkdQsn2UEyyMNc3TZOQA7w78crv-EkVkTxw5QP2j2TMaxieYXnQsDKGY5IEr2nFlG3Q2llOqpzeCXmQbGMOVcYsUNrSvNDXKA8ildU731sX95eiPu_d3XWJsKNoxVY1U1yvgnWFeIAC5oSp5tENFnEpm6ZWodK_cmTkmg=w1340-h893-no?authuser=1",
+				"p1": "An immense mausoleum of white marble, built in Agra between 1631 and 1648 by order of the Mughal emperor Shah Jahan in memory of his favourite wife, the Taj Mahal is the jewel of Muslim art in India and one of the universally admired masterpieces of the world's heritage.",
+				"p2": "The Taj Mahal is considered to be the greatest architectural achievement in the whole range of Indo-Islamic architecture. Its recognised architectonic beauty has a rhythmic combination of solids and voids, concave and convex and light shadow; such as arches and domes further increases the aesthetic aspect.",
+				"p3": "The colour combination of lush green scape reddish pathway and blue sky over it show cases the monument in ever changing tints and moods. The relief work in marble and inlay with precious and semi precious stones make it a monument apart.",
+				"p4": "Taj Mahal represents the finest architectural and artistic achievement through perfect harmony and excellent craftsmanship in a whole range of Indo-Islamic sepulchral architecture. It is a masterpiece of architectural style in conception, treatment and execution and has unique aesthetic qualities in balance, symmetry and harmonious blending of various elements",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "veg",
+						"name": "Shankara Vegis Restaurant",
+						"imgUrl": "https://content.jdmagicbox.com/comp/agra/a2/0562px562.x562.130521121956.u6a2/catalogue/shankara-vegis-restaurant-taj-ganj-agra-fast-food-restaurants-43b2l.jpg",
+						"rating": "4.5",
+						"address": "Chowk Kaghzi Near Taj South Gate Road, Agra 282001 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297683-d1190105-Reviews-Shankara_Vegis_Restaurant-Agra_Agra_District_Uttar_Pradesh.html"
+					},
+					{
+						"id": "2",
+						"type": "non-veg",
+						"name": "Tea'se Me",
+						"imgUrl": "https://lh3.googleusercontent.com/elJm4lTzc0AtvREhUSG_-Q0UV4Rd_-M2yyTHe4orQOHohAIr2w-VcxhYuOFp2kFisARpa2NVPqhsbrqwZvicHYMDy7bvSrNB5gJKri8=w1000",
+						"rating": "5",
+						"address": "Fatehabad Road near purani mandi crossing Rooftop of Hotel M House, Agra 282001 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297683-d7789920-Reviews-Tea_se_Me-Agra_Agra_District_Uttar_Pradesh.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "ITC Mughal, Agra",
+						"imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/24/3d/7a/itc-mughal-agra.jpg?w=1600&h=-1&s=1",
+						"rating": "4.5",
+						"address": "Fatehabad Rd, Tajganj, Agra 282001 India",
+						"url": "https://www.tripadvisor.com/Hotel_Review-g297683-d301771-Reviews-ITC_Mughal_Agra_a_Luxury_Collection_Hotel-Agra_Agra_District_Uttar_Pradesh.html"
+					},
+					{
+						"id": "2",
+						"name": "Crystal Sarovar Premiere",
+						"imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/49/fa/22/studio-taj-facing-room.jpg?w=1100&h=-1&s=1",
+						"rating": "4.5",
+						"address": "Fatehabad Road, Agra 282001 India",
+						"url": "https://www.tripadvisor.com/Hotel_Review-g297683-d8701084-Reviews-Crystal_Sarovar_Premiere-Agra_Agra_District_Uttar_Pradesh.html"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 4,
+		"site": {
+			"state": "Rajasthan",
+			"city": "Jaisalmer",
+			"places": {
+				"id": 2,
+				"name": "Jaisalmer fort",
+				"description": "The town stands on a ridge of yellowish sandstone and is crowned by the ancient Jaisalmer Fort. This fort contains a royal palace and several ornate Jain temples. Many of the houses and temples of both the fort and of the town below are built of finely sculptured sandstone. The town lies in the heart of the Thar Desert ",
+				"url": "https://lh3.googleusercontent.com/CNLug5xFXbpaVM9CA1Hp-ezJh3DLz-S6tqeCgdoST7QtRpBqSK_ZBiOLDKB2epqY05-15jpMryY6na7EERtfhb4q9-b7tLNWIVLoZiiQxSyi5PvpOHfO-xHPqVFzQVvTwkVgAB7te7DZ5iVD63zMlAeR6KxNnDLN9u7cjeMOzj5jv45GmU2fLORzGGyyHBNGYjQBazq_G-oRPr5oWXWfyF09Pq6VC1l2F9u-tfrRT9iG-y_-UGWs6cLloSrrGxKL168Y1z0bdYD7rNp3UC-1I3iVkm9584c1KUkRdL6dzgavolLCeR5D0bmDjNE-fFMmDrzbygFeT4FAOj7SjvUr45_FEVOruBc2qV30WfPUB_2zpENTdHCUo2RfnJXGT-3FnUO2x5kifTWH47HXJfe-iy6utPtFpQsrhzsPEmTLKMZBC8b4tzjHcbicM5-14sOiqsFcRZPKBiPW0Zn8Oae3x655qbEttD3XxbZ3Y57J23jA2cZ0dHPw4NbjAbc7UpI_qVqEuj1-1I5YQdSaXFt9R9w8C46E72JTEcTnbSfjYM9ox0GBN06h6n8vyeTqrHZXuNI_RbsGPlLVRJLlBFbk4hS6D-YpI1stg-BGfadBNTCpROBRI0f-vSNx3u_CA7jzk5-2eLWviqgCiyIXe9-cS0uwhjpv31vIEw16flPK2GfKWoqu4lsSOAdYqYeCB6illb_ahzhQCiO38AIA_n-T3wM=w718-h404-no?authuser=1",
+				"p1": "The Jaisalmer Fort also goes by the name Sonar Quila (Golden Fort) as it rises from the desert itself and seems to become one with the golden hues of the sand. The setting sun adds its own magic and shrouds the fort with mystique. The fort is constructed in the classic style of the royals by local craftsmen. ",
+				"p2": "This fort is a world heritage site and forms an important plot point in one of Satyajit Ray’s famous Feluda stories and corresponding movie, Sonar Kela (The Golden Fortress).",
+				"p3": "Jaisalmer traces its inception to the 12th century. History tells us of Rawal Jaisal, the eldest heir of the Rawal of Deoraj, was passed over for the throne of Lodurva and a younger half-brother was crowned king. Rawal Jaisal went looking for a new location to set up his capital when he came across sage Eesul. ",
+				"p4": "The sage told him about Krishna’s prophecy which said that a descendant of his Yaduvanshi clan would found a new kingdom at this same spot. It was in 1156 that Rawal Jaisal constructed a mud fort, named it Jaisalmer after himself and declared it his capital.",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "non-veg",
+						"name": "Wyra – The Rooftop Restaurant",
+						"imgUrl": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/09/Wyra-The-Rooftop-Restaurant.jpg",
+						"rating": "4.5",
+						"address": "Sam Road, Jaisalmer 345001, India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297667-d15021804-Reviews-Wyra_The_Rooftop_Restaurant-Jaisalmer_Jaisalmer_District_Rajasthan.html"
+					},
+					{
+						"id": "2",
+						"type": "veg/non-veg",
+						"name": "Green park restaurant",
+						"imgUrl": "https://img.traveltriangle.com/blog/wp-content/tr:w-700,h-400/uploads/2019/09/Green-park-restaurant.jpg",
+						"rating": "5",
+						"address": " Near Air Force Station Jaisalmer, Jaisalmer 345001, India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297667-d8852811-Reviews-Green_park_restaurant-Jaisalmer_Jaisalmer_District_Rajasthan.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "sairafort sarovar portico",
+						"imgUrl": "https://pix10.agoda.net/hotelImages/5781697/-1/000268949fd9152226e4a719c43b8f8d.jpg?s=1024x768",
+						"rating": "4.2",
+						"address": "PL-1 , RICO Industrial Area , Shilp Gram Jaisalmer, 345001 V",
+						"url": "https://www.goibibo.com/hotels/sairafort-sarovar-portico-hotel-in-jaisalmer-3028167354340461395/?hquery={%22ci%22:%2220210811%22,%22co%22:%2220210812%22,%22r%22:%221-2-0%22,%22ibp%22:%22v15%22}&hmd=83290310924a52db22f8afe77639f0554fe89137c363da161954dc112f8b9a0fc265f4aba77076c4f91cabc721c74bb203fcd7e404b04bf2107c5e4973dca54c6e086a1f8e746268d3b8d5e9bb0563aba1daf9c65877e98d7e1418b63606e4a041186cb254ceab69d2865c34966bdc0b9b1da57339a62a9239857f9fc89a95acef06c57fdecf9ed99dccd141802ce5e8aeb8b7041ce7dcc8ca0b6065a399556f8a01555eaf5f0ae26021a0f66ed1ec8459f138cbb57fda84018bae73c5a35e17cdff2154e2f862daec7ae8af8d1a88be735ba40ce91b06e6ce64cbf9271df402c3c418fd49daebc9172afddc6d2dd914fe0fca53ef8ce72b398c9aff8c8a05b81abd8f9beeba36e72f97758ac72f541f54814c44332c1709f18694c756b1ad4fb56ed4537eb5bd88f379ee325333ef09078cfb95119be0ac75267fa2d6e0b15d2066576f619ad6a873a449f31b6c1f82e3c5224b5de544cbfe7a8f0feb8b2134839f5e69bd1dba664227&cc=IN&reviewType=gi"
+					},
+					{
+						"id": "2",
+						"name": "Oasis Camp Sam",
+						"imgUrl": "https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/htl-imgs/201412222120049608-ee357cd247e011eabd3a0242ac110003.jpg",
+						"rating": "3.5",
+						"address": "Sam Sand Dunes, Village - Sam, Jaisalmer - Sam - Dhanana Rd, Kanoi, Rajasthan 345001",
+						"url": "https://www.goibibo.com/hotels/oasis-camp-sam-hotel-in-jaisalmer-6309401303352518362/?hquery={%22ci%22:%2220210811%22,%22co%22:%2220210812%22,%22r%22:%221-2-0%22,%22ibp%22:%22v15%22}&hmd=d3ae7911f12902402316d45bea3eee53b9c351c818929313e281711b9798c037167081e14195301e5a257b0c8470601077ff942adf8defb5297ef17eeb844d5ac9f1bb270a787c895415257e33bacc2abdd4e786ff954d1593b66f53b73397aa0b2a56d3a7de415c5da8078eec599da836d1b914ef3b92252220576f6174742ace54cc7267dc4532d5bfac4361526086022d7598095d702b88030dd91db4b43dfd2b474130ef1c0cc41b1f9bbfdd7ceeb6d27a58b602c05cc3c124effce77e0654f74ea441f76c1432a499b030d657587a8d4c90db9b3c6b465d8aab9e1791dd9114bb2b63f16a0f8d8136b3d973dc7a8173eebc3a151a1d2c651ec04f8737906a1a604d1f80dcfe98abd3ef7dbe374664a3a9849ae2e9bffa29fccedf5a096a78a5c70bd9942139e5afaff678e27a42676b061a85f1aa2c77297dc3f5a3b972d7eb3d6547fe28ae2f22d9853ebad13f1bbba6446fd1aabc225c3186b626cb93aa&cc=IN&reviewType=gi"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 5,
+		"site": {
+			"state": "Delhi",
+			"city": "Delhi",
+			"places": {
+				"id": 2,
+				"name": "Red Fort",
+				"description": "Delhi's famous Red Fort is known by that name because of the red stone with which it is built and it is one of the most magnificent palaces in the world. India's history is also closely linked with this fort. It was from here that the British deposed the last Mughal ruler, Bhadur Shah Zafar, marking the end of the three century long Mughal rule. ",
+				"url": "https://lh3.googleusercontent.com/it7WfJ8vFkPM6oE7GeiZJIC_qtQUj_yFVZ49OnGm67eEK_N1N2X8vWKeiqjT2Cog5jZ1do-d2BBU1pJK4I9JuVPakb7w9oIAENaWuvPeuyXfNbNMVHy198Z1kruehq87u5iHdEfhf9veLfNDGueBJImClniwE-f4lkhLZhUp3RwFUjRvmCHcP3_xaRk9WhWk0LA2Wsvi--PVHPRX00jeJqOKOUvI7Mofd3xo5pFQ8oOhHDF022Wh2T6nF7EdgPFJLrIBJQ_QIBZRTJdTjdAIrtoJlh_qebcVRgVMoHZ7Lk6JNL_1bFFqCC5xFkGviJp6Q0DqWenCSdmH4c0CrhnJu74GzioghWcJdwDkH2h6IoAyx0vHv1anKg0ZI_25kl3jr3_EBwbZpLXJI0KD5U5yANrWq431o5aJWvdygz_Pg-yHYXMHlYSIZ8yCKNf4e6NkbsVRd2oc62r6ytG7sGIs8bOIgJn3tvqaPQkudUcoAt6TJoeCvPFP--M2rZoMl8J5avbZQBc92T5dP9PWGKutGyx818ABQ-Tf2OBfPelNwgTCTY2PprSBOrbCb_18UhXZmeJnEK4yAiDQuDQ79YCFsQwxc32pbvWtf0TQjyJFGE6ECkgq3lcNCKmKnRk-duYGONL--N3bd6gZhYSZeZtmm2spLcEb9WwDZJ-pB6g0rb7NBpHP38GMF4kNUNGwbqY_tTpAuDEtmKUlyUwzuahbKug=w1459-h820-no?authuser=1",
+				"p1": "The fort’s massive red sandstone walls, which stand 75 feet (23 metres) high, enclose a complex of palaces and entertainment halls, projecting balconies, baths and indoor canals, and geometrical gardens, as well as an ornate mosque. Among the most famous structures of the complex are the Hall of Public Audience (Diwan-i-Am), which has 60 red sandstone pillars supporting a flat roof, and the Hall of Private Audience (Diwan-i-Khas), which is smaller, with a pavilion of white marble",
+				"p2": "An earlier red fort had been built in Old Delhi in the 11th century by the Tomara king Anangapala. The Quṭb Mosque now stands on the site.",
+				"p3": "The innovative planning arrangements and architectural style of building components and garden design developed in the Red Fort strongly influenced later buildings and gardens in Rajasthan, Delhi, Agra and further afield. The Red Fort Complex also reflects the phase of British military occupation, introducing new buildings and functions over the earlier Mughal structures.",
+				"p4": "The Red Fort has been a symbol of power since the reign of Shah Jahan, has witnessed the change in Indian history to British rule, and was the place where Indian independence was first celebrated, and is still celebrated today. The Red Fort Complex has thus been the setting of events critical to the shaping of regional identity, and which have had a wide impact on the geo-cultural region",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "veg",
+						"name": "Lakhori-Haveli Dharampura",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/19/39/00/9c/courtyard-dining.jpg",
+						"rating": "4.5",
+						"address": "2293 Gali Guliyan 2293, Gali Guliyan, Dharampura, Chandni Chowk,Jama Masjid, New Delhi 110006 India",
+						"url": ">https://www.tripadvisor.in/Restaurant_Review-g304551-d10032784-Reviews-     Lakhori_Haveli_Dharampura-New_Delhi_National_Capital_Territory_of_Delhi.html"
+					},
+					{
+						"id": "2",
+						"type": "non-veg",
+						"name": "Hotel Royal Afgan Restaurant",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0e/aa/49/3d/photo0jpg.jpg",
+						"rating": "4.5",
+						"address": " G 3663 to 3672, Netaji Subhash Marg Daryaganj, Near Subzi Mandi,New Delhi 110006 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g304551-d7779795-Reviews-Hotel_Royal_Afgan_Restaurant- "
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "Red fox hotels",
+						"imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/05/2d/40/red-fox-hotel-delhi-airport.jpg?w=2000&h=-1&s=1",
+						"rating": "4.5",
+						"address": "address = Asset No 6 Aerocity Hospitality District, near T3, IGI Airport,New Delhi 110037 India",
+						"url": "https://www.tripadvisor.com/Hotel_Review-g304551-d3507485-Reviews-Red_Fox_Hotel_Delhi_Airport-"
+					},
+					{
+						"id": "2",
+						"name": "ITC Hotels",
+						"imgUrl": "https://www.itchotels.com/content/dam/itchotels/in/umbrella/itc/hotels/itcmaurya-new-delhi/images/overview-landing-page/headmast/desktop/exterior-night.png",
+						"rating": "4.5",
+						"address": "Plot No 3, District Centre, Sector 10, New Delhi 110075 India",
+						"url": "https://www.tripadvisor.com/Hotel_Review-g304551-d2290968-Reviews-Welcomhotel_by_ITC_Hotels_Dwarka-"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 6,
+		"site": {
+			"state": "GOA",
+			"city": "GOA",
+			"places": {
+				"id": 2,
+				"name": "Colva Beach",
+				"description": "One of Goa's most famous beaches, Colva attracts crowds of tourists during high season (mid-November through mid-February) — for good reason. The 2.4-kilometer-long beach in south Goa offers an endless array of aquatic adventure sports (including jet skiing, banana boat rides, and parasailing)",
+				"url": "https://lh3.googleusercontent.com/lo6d9kWGSI-tsbYn6C3RxF1HqKf2KQIvEuiE0lIXUyGY6iybXj5m05unN9H8VdJ6vK0tZigH9Z2qzGqEtGctz-G0eT1SldmS6E87vdCrNGk9r-q7k6zOOUGRvw2Asik7BUT049hSbQEVmgSjUqPirb7C4mnYCtGroeSppTAksnjsVBAF8VllEy0kzZw4HQfA9GYb1PAv3CCf1JneY9Ho_10Gh2O49yftxeDAvYU1P1227EYtijLjk7QHiVY-nAHrMuCOjeY_ruqUoNhwv4fANvU7YtS38kkd8opz3Qq397XLoOWqibPn_7Tn5rJLbmch_F4Ji6jEqbFDqc8YCHhPFvEPDZ_iMlq4zladcn7N2vteny-O0i_idT4TUkkWSzwmajkopS-z3MTohvF6o1-6aSxNp-mwW8ZvgqgCoTmQF6ZYe4y5H6TW5zUwaRtFBx7x2thIyqn63lpdzFrVBS1k5MKqkR1QSBmhhtrDT5sgoSc4iGAJXkwCuHk4uQ6y1lREnIaZRlTog5ma6AucR1VVyx7D10IsFm4qOrvTnY1ogd1LO5zxQd0jY-dq536srT79eK29bwG4ytfQwOFMZGOPCvjUr2AJvYyUAPn2xzaIwWgWSmt9Ar54m7LGlDKtOlG0nbTRw53HlxeSlWZY1Pd3shGar47FWWt_yBGrm55f4USBW3rR1Hds0FlHTpi1h-URb2X_RJ0_MKKkndqHm8GhnDg=w718-h404-no?authuser=1",
+				"p1": "As you tread the beach, you will witness quirky huts and hotels all along the shores. The Portuguese influence on this area has been significant since the 1600s when the wealthy British and Portuguese considered Colva Beach as a prime vacation spot. You will also find numerous beach shacks, hotels, and small shops on the beach along with several ruins of ancient Portuguese villas and houses",
+				"p2": "You can take on a host of water and beach sports on the Colva beach while basking under the sun and enjoying the pleasant sea breeze. The Colva Church, also called Igreja de Nossa Senhora das Mercês, lends religious significance to the beach.",
+				"p3": "Since Colva is a coastal area, the weather is moderate all year. However, most tourists prefer October to March to visit this beach, making it especially crowded during these months. ",
+				"p4": "You can choose to visit during these months if you want a respite from the cold weather that grips most of India at this time. Average temperatures range from 20 degrees (lowest) to 30 degrees (highest) from October to March, making it all the more comfortable. Visit during the evenings to catch gorgeous sunsets or views of migratory birds. ",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "veg/non-veg",
+						"name": "The Garden Restaurant",
+						"imgUrl": " https://lh5.googleusercontent.com/p/AF1QipNVErHCmbr5HeNeQDnzYjV6LVj525N0c3yoxpp3=s580-k-no",
+						"rating": "4.1",
+						"address": "  La Ben Resort, Colva Beach Rd, Colva, Goa 403708 ",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g1064392-d3831292-Reviews-The_Garden-Colva_South_Goa_District_Goa.html"
+					},
+					{
+						"id": "2",
+						"type": "veg/non-veg",
+						"name": "Kentuckee Seafood Restaurant",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/30/cd/51/20160930-214951-largejpg.jpg",
+						"rating": "4.0",
+						"address": "Opposite Colva Circle, Colva Beach Rd, Colva, Goa 403708",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g1064392-d1737941-Reviews-Kentuckee_Seafood_Restaurant-Colva_South_Goa_District_Goa.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "Hotel Colva Kinara",
+						"imgUrl": "https://lh4.googleusercontent.com/proxy/3cS2qOSZ7gQ0Mi_uhylGxrkoDIG9lHVdJ79oZUYNJ4AEXWzNwUB8wxLgl8PS1YB1rRc7_9G7RCVhFSHmVPa3I5_Q8Bgyf7Nvhyvema4JMvnLpyid3DYotdS4a-UukWoV7xv8e-eTESiVRfsEXZ8TIRmRNWJCrw=w325-h200-k-no",
+						"rating": "4.0",
+						"address": "Colva Beach Rd, opposite William's Beach Retreat, D-Block, 4th Ward, Fatona, Colva, Goa ",
+						"url": "https://www.google.com/travel/hotels/Colva/entity/CgsI3eaq07zV3PuEARAB/overview?g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4306835%2C4317915%2C4371334%2C4401769%2C4419364%2C4429192%2C4482438%2C4486153%2C4509341%2C4515404%2C4545890%2C4570610%2C4584145%2C4588449%2C4588561%2C4270859%2C4284970%2C4291517&hl=en-IN&gl=in&ssta=1&ap=aAE&q=hotels%20in%20Colva%20Beach&rp=EN3mqtO81dz7hAEQi521_8TAjcutARDSoKP3h976-XUQ84yjwd-97e22ATgBQABIAqIBCkNvbHZhLCBHb2HAAQPIAQA&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjlDxAHGBMSBwjlDxAHGBQYATICEAAqCQoFOgNJTlIaAA&ved=0CAAQ5JsGahcKEwjwsdjr9uvxAhUAAAAAHQAAAAAQHw"
+					},
+					{
+						"id": "2",
+						"name": "Baywatch Resort Goa",
+						"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipP8hID7We2tSM1AfWPU-dkpb7yZ_BVmBogMTn55=w325-h216-k-no",
+						"rating": "3.9",
+						"address": "Sernabatim, Beach, Colva, Goa 403708",
+						"url": "https://www.google.com/travel/hotels/Colva/entity/CgsIi521_8TAjcutARAB/overview?g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4306835%2C4317915%2C4371334%2C4401769%2C4419364%2C4429192%2C4482438%2C4486153%2C4509341%2C4515404%2C4545890%2C4570610%2C4584145%2C4588449%2C4588561%2C4270859%2C4284970%2C4291517&hl=en-IN&gl=in&ssta=1&ap=aAE&q=hotels%20in%20Colva%20Beach&rp=EN3mqtO81dz7hAEQi521_8TAjcutARDSoKP3h976-XUQ84yjwd-97e22ATgBQABIAqIBCkNvbHZhLCBHb2HAAQPIAQA&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjlDxAHGBMSBwjlDxAHGBQYATICEAAqCQoFOgNJTlIaAA&ved=0CAAQ5JsGahcKEwjA1ti89-vxAhUAAAAAHQAAAAAQHw"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 7,
+		"site": {
+			"state": "Rajasthan",
+			"city": "Jaipur",
+			"places": {
+				"id": 2,
+				"name": "Amer Fort",
+				"description": "Jaipur is home to one of India's most-visited forts: Amber Fort. Built in the year 1592, the sandstone and marble monolith stands atop a small hill roughly 20 minute's driving distance northeast of the center of Jaipur. It's best known for being a pristine example of Rajasthani architecture. ",
+				"url": "https://lh3.googleusercontent.com/YGsJj_wpyGOs6di8jogi7AyJxhUq0H84TlJ5FKaYV279xDgCjGpNMTokbycj4YcbYeZ2v2KXxq0IcEtz9J5w4aQJDfqBK6lkL8LmchXyWq8jeZkMq0D46dwgbueseKr0_z8H9I_Zm4VX7Of26ghtYuel8DDymdEsDMuXK68LsKtQuDdW3mxVCLjTiyq2KFF-ody_jO_gLgbrSF0nu9EmZbWUeTq-hqDltck27nwsrSDRXzMqn9VHC3bwSIomJDW0OjXKK0oVx7a_A25IiCpOnX95h03kIdGm_280C3ta5NO-nLFLV4-wUPcnSnqC7cwcmOMYjROBdkI3TrNdB1KZBAr7hRyWkCyuCwtoKcYpq3jytBWbyBCwhPr0D4xXMeSMzkKl-wfzO4A927rMuAs86tmjyooZsJiL6xGGocfSnFIsq5aqo-a26YeE5Kz5B0Dfe0Ttl-h7_swaldS2xd0EDNemWZ-6XTi6uHvIFjcBKRFVdUzewY9xTxI-0C1i7h34NMokQMuetE4TV8FCqfYue6tReci5pKE9eSWZTcNOrvxFzSLxUJacrPeciiaQy3GxGIq7jwJeA8hrNxBS48BBS7hsDFre67FI2jAEq1C6IuUPsWjPhgjWhOXfgpE9H5jZHV3bSqadyHF_m9m2Qa3z8MMI832-ftCpF7TsQihIbaqRYMXcfL5fVxS6t_lUYP5c3jrg6MB9e-sYv1uPXNC3eYs=w615-h346-no?authuser=1",
+				"p1": "One of the top tourist attractions of Jaipur, the huge Amer Palace Fort sits atop a small hill, and is located at a distance about 11 km from the main city. The magnificent Amer Fort is an extensive palace complex that has been built with pale yellow and pink sandstone, and with white marble. The fort is divided into four main sections that are graced with their own courtyards.",
+				"p2": "As you arrive at the Amer Fort, you will enter through the Suraj Pol; unless you arrive by car, then you enter via the Chand Pol. Both these gates open into the Jaleb Chowk, which is the main courtyard, where in earlier times, returning armies used to display their plunder to the people. The fort has a number of sections, including the King’s quarters, the zenana (where the women lived), gardens, temples, etc.",
+				"p3": "There are a lot of attractions for one to see at the Amer Fort, including the diwan-e-aam, such mandir, and the Sheesh Mahal. Amer Fort is also home to some underground tunnels that connect Amer to Jaigarh Fort. A part of these tunnels has been restored, and is now open to public as well. Encompassing all this, the Amer Fort is a perfect example of Rajasthani architecture which is a must-visit.",
+				"p4": "The essence of Amer Fort is encapsulated by the beautiful light and sound show within the fort, where visitors get to see an astounding spectacle about the history of the fort.",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "veg/non-veg",
+						"name": "1135 AD",
+						"imgUrl": "https://lh3.ggpht.com/p/AF1QipNU2Oe_YmAO9tnZZFoINzDbSggeJJ9H2N0ggPHQ=s512",
+						"rating": "4.0",
+						"address": " Amer Road,Jaipur, Rajasthan 302001",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g1096234-d1901154-Reviews-1135_AD-Amer_Jaipur_Jaipur_District_Rajasthan.html"
+					},
+					{
+						"id": "2",
+						"type": "veg/non-veg",
+						"name": "The Stag Restro cafe & lounge",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/19/11/9f/5b/the-view.jpg",
+						"rating": "4.0",
+						"address": "Devisinghpura, Amer Rd, Jaipur, Rajasthan 302028",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g304555-d10747457-Reviews-The_Stag_Rooftop_Restro_Cafe_Lounge-Jaipur_Jaipur_District_Rajasthan.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "KK Royal Hotel & Convention Centre",
+						"imgUrl": "https://lh5.googleusercontent.com/proxy/yk7Y8vlHOTMEubqzC91gyOn4ctf6mMM38T1rLJLaHiSDVnjYW3NIEFv_Bs9UCuHmAYoA9DvRbQKvN5Nc-wyhmPrDnbDMvOqWkwF70ORmlFtt2AqUPBUUitldS7E9s7InsAnYIe2IAjnIeJRAHYpukMU5QCyju0g=w325-h219-k-no",
+						"rating": "4.3",
+						"address": "Amer Rd, Amer, Jaipur, Rajasthan 302028",
+						"url": "https://www.google.com/travel/hotels/Jaipur/entity/CgoInMHYgf3V9LddEAE/overview?g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4306835%2C4317915%2C4371334%2C4401769%2C4419364%2C4429192%2C4482438%2C4486153%2C4509341%2C4515404%2C4545890%2C4570610%2C4584145%2C4588449%2C4588561%2C4270859%2C4284970%2C4291517&hl=en-IN&gl=in&ssta=1&ap=aAE&q=hotels%20near%20amer%20fort&rp=EJzB2IH91fS3XRCFsMuJx7n_3nMQ6_y769XFt4BZEKr-qIzC-Yf6UTgBQABIAqIBDEFtYmVyIFBhbGFjZcABA8gBAA&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjlDxAHGBMSBwjlDxAHGBQYATICEAAqCQoFOgNJTlIaAA&ved=0CAAQ5JsGahcKEwjoi7ux-uvxAhUAAAAAHQAAAAAQHw"
+					},
+					{
+						"id": "2",
+						"name": "Trident Hotel Jaipur",
+						"imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/a5/b0/56/exterior.jpg?w=900&h=-1&s=1",
+						"rating": "4.4",
+						"address": "Amer Rd, Jal Mahal, Amer, Jaipur, Rajasthan 302002",
+						"url": "https://www.google.com/travel/hotels/Jaipur/entity/CgoIhbDLice5_95zEAE/overview?g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4306835%2C4317915%2C4371334%2C4401769%2C4419364%2C4429192%2C4482438%2C4486153%2C4509341%2C4515404%2C4545890%2C4570610%2C4584145%2C4588449%2C4588561%2C4270859%2C4284970%2C4291517&hl=en-IN&gl=in&ssta=1&ap=aAE&q=hotels%20near%20amer%20fort&rp=EJzB2IH91fS3XRCFsMuJx7n_3nMQ6_y769XFt4BZEKr-qIzC-Yf6UTgBQABIAqIBDEFtYmVyIFBhbGFjZcABA8gBAA&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjlDxAHGBMSBwjlDxAHGBQYATICEAAqCQoFOgNJTlIaAA&ved=0CAAQ5JsGahcKEwjIleyn--vxAhUAAAAAHQAAAAAQIA"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 8,
+		"site": {
+			"state": "Rajasthan",
+			"city": "Jodhpur",
+			"places": {
+				"id": 2,
+				"name": "Mehrangarh Fort",
+				"description": "Dominating the old city of Jodhpur, the massive Mehrangarh Fort, one of the largest fortifications in India, was built in the 15th century to safeguard the people of the famous 'Blue City,' as Jodhpur is still known - a name derived from its indigo colored houses, painted blue to deflect the heat.",
+				"url": "https://lh3.googleusercontent.com/PXhRElcAsRmTVvpTHWBbA_TzmkWMI6_M3ZlO3N_gkdYvKTaRCT9ZMPZasukye4MvLLZuQjWcO4AOtZJz1HxcDuh7IlKLmtzJq4J5ShRgpFMkndxV_RVhcbkYyFUPAap0PSjoNErulqU7NaKQl46Cq1yw1_dZuIERfZHMSUx_Nvw5K0PDYF_JZqW3hTquz5JcBQzb-lNSUxe_Evaq51DMC8WzVCrA4gzKGg0U4UHv0gj1wohKuGEYx3KJjfsYhXGImj9DEAEtAf6qTyMsmhmwsPj-psnsKlZM4ATbDjKyuxACbIv9Wohe8-FrNPXh7F8kbzkQrD69y1i9r6b8B9RkH_QX83A0VstlcGiJauWBSJnxbYhwFg-karbvKljhxdchStU8BdPmRC6iHdoC2ze-m9pU3FSt0qfB08dsAvrZQ-a4XSYDPsDC9jqu8-cwEEPYIoUfw0fTihfN4_Kmq3JP9aaHTgYYI23eFzDnklRHnf8I9HsPqqz875nr95XA_hrKJ778mL4lxARCpwgqxHaOd56To8eBQ8UAhbZQvatD615bp0DJDNFyu5YleJFlWGOfdNg86JSRKW5iXRMNYT4MDW8CwhGhcf7QBKiMT2WmwJb52vHxMMRL1reek9L-IAGN4Ys04kdJWo8nNg947hOenljMoUx8yzXzSXGjsyImZJiMQZoHJPxsESZgCi337QAJbZRQOq4HPCZNBWiDykwpirc=w1553-h893-no?authuser=1",
+				"p1": "Today Mehrangarh Museum has a unique importance as a repository of the artistic and cultural history of the large area of the central Rajasthan, Marwar-Jodhpur, ruled by the Rathore dynasty.",
+				"p2": "The Museum displays one of the most important and best preserved collections of fine and applied arts from the Mughal period of Indian history, during which the Rathore rulers of Jodhpur maintained close links with the Mughal Emperors.",
+				"p3": "Apart from the Museum, the Trust is at the forefront of conservation and restoration, a generous patron of the arts and music and a lively centre of academic study. Mehrangarh Museum Trust is recipient of UNESCO ASIA-PACIFIC Award in the field of Architectural Conservation, Cultural Heritage and adaptive reuse.",
+				"p4": "The Maharaja, the Managing Trustee, rightly believes that as a premier institution in the field, The Mehrangarh Museum Trust should lead by example and provide further momentum to the conservation and restoration movement in Rajasthan, and indeed all of India.",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "veg/",
+						"name": "LG Restaurant",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/10/d0/9f/27/getlstd-property-photo.jpg",
+						"rating": "5.0",
+						"address": "Surya Colony,Naya Bass Manak Chowk, Jodhpur 342001 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297668-d12945408-Reviews-LG_Restaurant-Jodhpur_Jodhpur_District_Rajasthan.html"
+					},
+					{
+						"id": "2",
+						"type": "veg/non-veg",
+						"name": "Kim Mohan's Restaurant & Cafe",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/16/2b/87/ad/img-20190121-001302-largejpg.jpg",
+						"rating": "5.0",
+						"address": "Manak Chowk Road Surya colony Naya bass opp mehata market killi khana, Jodhpur 342001 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297668-d10109660-Reviews-Kim_Mohan_s_Restaurant_Cafe-Jodhpur_Jodhpur_District_Rajasthan.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "HosteLaVie Jodhpur",
+						"imgUrl": " https://r1imghtlak.mmtcdn.com/7155f48ad7f911ebb5800242ac110009.jpg?&output-quality=75&downsize=520:350&crop=520:350;2,0&output-format=jpg",
+						"rating": "4.7",
+						"address": "Killi Khana, Magal Haveli, Makrana Mohalla, Near Clock Tower | 5.7 km from Jodhpur Airport",
+						"url": "https://www.hostelavie.com/hostels/jodhpur"
+					},
+					{
+						"id": "2",
+						"name": "BoB Hostel",
+						"imgUrl": "https://r1imghtlak.mmtcdn.com/334f10dcd19f11eb9d540242ac110002.jpg?&output-quality=75&downsize=520:350&crop=520:350;0,20&output-format=jpg",
+						"rating": "4.6",
+						"address": "Kansara Street, Katla Bazar, Tripolia bazar, Near Kunj Bihari Temple, Jodhpur 342001 | 1.6 km from Jodhpur Railway Station",
+						"url": ""
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 9,
+		"site": {
+			"state": "Maharashtra",
+			"city": "Aurangabad",
+			"places": {
+				"id": 2,
+				"name": "The Ellora Caves",
+				"description": " Ellora Caves, Ellora also spelled Elura, a series of 34 magnificent rock-cut temples in northwest-central Maharashtra state, western India",
+				"url": "https://lh3.googleusercontent.com/IU8cYHQlBtcZSbdw7HH4_GXfyR5sgG8mKTr15sSn-DJ4cVq8GkUMQsE-vovQOx6azY0_iZLasNFv20tbB-7TlFL7IoiHwhAPSzxiMv8rL8-VVwt7-Jykq_jjHX7KI2FxEzARuanBey5bswF1OqPjnpUfGRWwSbfK31GT-6NVDCXz3_CxJEXRiGZL-VaJ62Y9mUKhfVBFCBwLSTfkC0rWKgZeuW-5iZR2jz_q0i3EYxUImwoCDRaqesYXCY4OOlzKdmBXQtSxXIIZbyCkLIiRpCK1L4BVoDgt9EKItrqjMXzFfK4ZPxhWAHtIjnaIn4IyjuYqVDmqGY4B-FQPTgywgPSGn87xWjkAfvQ5a9NFDNectScSE5YJvKF4SDikyyu7ncMW3VkhdPhU3cS2bbe4ZkpywbQhlLPhPohyVrAXDt_AtKc-SlyXrGLplduJZp45tHOOzn8aBDMFrFt2H9RHkT7_SWm8wxphBGOmSiFal97zZr-W_ipYkwopydZl58x2iHsvEtnxFtzguOarSFWS_EgGFR86eJLcpjDDzTQsG5-kszmvWsJut76Y5S9HQf21l5IWyRjsqb-C7IQ5vm5t1ihE1hlx4wQQ8U8yqioc2RAKQLcD2FqUs0oiNxjo2AhnCE8jokGu0FT7k1jmKdNLoc-A8XpMz82Kt5v2A4LRnnfuVtfBy3ZWKUUCzNLmgJNxHQxOj6Y3XvU4FMEZ9obRaUM=w615-h346-no?authuser=1",
+				"p1": "The 12 Buddhist caves (in the south) date from about 200 BCE to 600 CE, the 17 Hindu temples (in the centre) date from about 500 to 900 CE, and the 5 Jain temples (in the north) date from about 800 to 1000. The Hindu caves are the most dramatic in design, and the Buddhist caves contain the simplest ornamentation. Ellora served as a group of monasteries (viharas) and temples (caityas); some of the caves include sleeping cells that were carved for itinerant monks.",
+				"p2": "The Vishvakarma cave (cave 10) has carvings of Hindu and Buddhist figures as well as a lively scene of dancing dwarfs. Notable among the Jain temples is cave 32, which includes fine carvings of lotus flowers and other elaborate ornaments. Each year the caves attract large crowds of religious pilgrims and tourists. The annual Ellora Festival of Classical Dance and Music is held there in the third week of March",
+				"p3": "Of the Buddhist monastery caves, highlights include a number of shrines featuring carvings of Buddha and saints dating from the 5th to 7th centuries, as well as the stunning Carpenter's Cave, considered one of the finest in India.",
+				"p4": "The Hindu caves are much more complex and were carved from the top down, so scaffolding was not necessary. Of these, the best is the Kailasa Temple, an enormous rock-cut temple representing Mount Kailasa and requiring the removal of 200,000 tons of rock.",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "veg",
+						"name": "MTDC Upahar Gruha",
+						"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN0u3j2nARQhttv-2DVJ81Lz2oJLBjFlSdrCf7e=s676-k-no",
+						"rating": "3.8",
+						"address": " 10, Ellora Cave Rd Verul, Maharashtra 431101, Ellora Cave Rd, Verul, Maharashtra 431101 ",
+						"url": "https://www.tripadvisor.in/Hotel_Review-g297649-d1223775-Reviews-MTDC_Holiday_Resort-Aurangabad_Aurangabad_District_Maharashtra.html"
+					},
+					{
+						"id": "2",
+						"type": "non-veg",
+						"name": "Vrindavan Restaurant",
+						"imgUrl": "https://lh3.ggpht.com/p/AF1QipMsKb1rNlenlTHyfcE5RVKwD_-6KmniIo2ZSgb5=s512",
+						"rating": "4.5",
+						"address": "Verul, Maharashtra 431102",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297649-d5786315-Reviews-Vrindavan_Pure_Veg-Aurangabad_Aurangabad_District_Maharashtra.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "The Ambassador Ajanta",
+						"imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/fe/98/f4/hotel-garden-lawns.jpg?w=1400&h=-1&s=1",
+						"rating": "4.0",
+						"address": "Jaina Road R - 4, Aurangabad 431003 India",
+						"url": "https://ambassadorindia.com/ambassador-ajanta-aurangabad/"
+					},
+					{
+						"id": "2",
+						"name": "7 Apple Hotel Aurangabad",
+						"imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1f/7f/a1/property-aur.jpg?w=1100&h=-1&s=1",
+						"rating": "4.5",
+						"address": "HUDCO Corner Next to D-Mart, beside Taj Vivanta, Rauza Baugh, Aurangabad 431003 India",
+						"url": "https://www.7applehotels.com/aurangabad-hotel-overview"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 10,
+		"site": {
+			"state": "Bihar",
+			"city": "Bodh Gaya",
+			"places": {
+				"id": 2,
+				"name": "Mahabodhi Temple",
+				"description": "The Mahabodhi Temple Complex is one of the four holy sites related to the life of the Lord Buddha, and particularly to the attainment of Enlightenment. The first temple was built by Emperor Asoka in the 3rd century B.C., and the present temple dates from the 5th or 6th centuries. It is one of the earliest Buddhist temples built entirely in brick, still standing in India, from the late Gupta period",
+				"url": "https://lh3.googleusercontent.com/gh3MUItT9J6pa0NXBmJ10pQ25bPNuFGX87s3tR1uH8q8TLUTGlrKFcVb5ZmD0bVTN8ks38zvR7cWcLv4SKMTaTYxJrkpeh6eZ5zGkJu-P6kZ39k80ImH0Zcnvw0perkHyhociJXS2kpLckVXLAbqnE7KynHy64E9MfeIcZd-eQUz2455wTRo5NclIKXhJTf4p661KL-hpXNRwnTAH5umnLF162HmBZepprGnonN1S_INCRewppAjSZe-e-9KWbJgIeNlW4Tz24FjxcGdohlSnXhN0fUfwn25MAGrLe0D9fma7BvhJoUU6jYy1qjJIJ2dxI6Y17tSuVfmCQT44JGZQpaGk-dmnm1kRDth7g4gBCxFBY3QohSLvyiY9BdM5s257HPuuOoRcOG7iFdsKrcg0Vp_A-bxzFxyvxAQiyEZB7KryWoxuQr5Oue0FOsLqTyLHeZHwRtLhMO9di8nAYPys1Uh3RC-JaE-2CvjYZNUhRG2Cz17vVP7G-kPHm_Pkt-xNzROpT0UKvHqqt2zvgXWSj9WSLg1xkp9kzVB9z3Oo-EvQI7-0YfDIlN2S40BbK0jd8Xqma8OsL_Jn88myRA8ogY7nhyiZcPifi_LxxOAU4kJiXSWAmP5sitgnAq_ej4OXFrBP6BOFVEwSVJHn7TpwEsFmHqOUELIgul4lBg6s5FMHAnsVDKpJOGvjz2B63_whwwkLIIcEJTFIbws_mj5qIo=w718-h404-no?authuser=1",
+				"p1": "The 12 Buddhist caves (in the south) date from about 200 BCE to 600 CE, the 17 Hindu temples (in the centre) date from about 500 to 900 CE, and the 5 Jain temples (in the north) date from about 800 to 1000. The Hindu caves are the most dramatic in design, and the Buddhist caves contain the simplest ornamentation. Ellora served as a group of monasteries (viharas) and temples (caityas); some of the caves include sleeping cells that were carved for itinerant monks.",
+				"p2": "The Vishvakarma cave (cave 10) has carvings of Hindu and Buddhist figures as well as a lively scene of dancing dwarfs. Notable among the Jain temples is cave 32, which includes fine carvings of lotus flowers and other elaborate ornaments. Each year the caves attract large crowds of religious pilgrims and tourists. The annual Ellora Festival of Classical Dance and Music is held there in the third week of March",
+				"p3": "Of the Buddhist monastery caves, highlights include a number of shrines featuring carvings of Buddha and saints dating from the 5th to 7th centuries, as well as the stunning Carpenter's Cave, considered one of the finest in India.",
+				"p4": "The Hindu caves are much more complex and were carved from the top down, so scaffolding was not necessary. Of these, the best is the Kailasa Temple, an enormous rock-cut temple representing Mount Kailasa and requiring the removal of 200,000 tons of rock.",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "veg",
+						"name": "MTDC Upahar Gruha",
+						"imgUrl": "https://lh5.googleusercontent.com/p/AF1QipN0u3j2nARQhttv-2DVJ81Lz2oJLBjFlSdrCf7e=s676-k-no",
+						"rating": "3.8",
+						"address": " 10, Ellora Cave Rd Verul, Maharashtra 431101, Ellora Cave Rd, Verul, Maharashtra 431101 ",
+						"url": "https://www.tripadvisor.in/Hotel_Review-g297649-d1223775-Reviews-MTDC_Holiday_Resort-Aurangabad_Aurangabad_District_Maharashtra.html"
+					},
+					{
+						"id": "2",
+						"type": "non-veg",
+						"name": "Vrindavan Restaurant",
+						"imgUrl": "https://lh3.ggpht.com/p/AF1QipMsKb1rNlenlTHyfcE5RVKwD_-6KmniIo2ZSgb5=s512",
+						"rating": "4.5",
+						"address": "Verul, Maharashtra 431102",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297649-d5786315-Reviews-Vrindavan_Pure_Veg-Aurangabad_Aurangabad_District_Maharashtra.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "The Ambassador Ajanta",
+						"imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/fe/98/f4/hotel-garden-lawns.jpg?w=1400&h=-1&s=1",
+						"rating": "4.0",
+						"address": "Jaina Road R - 4, Aurangabad 431003 India",
+						"url": "https://ambassadorindia.com/ambassador-ajanta-aurangabad/"
+					},
+					{
+						"id": "2",
+						"name": "7 Apple Hotel Aurangabad",
+						"imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/1f/7f/a1/property-aur.jpg?w=1100&h=-1&s=1",
+						"rating": "4.5",
+						"address": "HUDCO Corner Next to D-Mart, beside Taj Vivanta, Rauza Baugh, Aurangabad 431003 India",
+						"url": "https://www.7applehotels.com/aurangabad-hotel-overview"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 11,
+		"site": {
+			"state": "Karnataka",
+			"city": "Mysore",
+			"places": {
+				"id": 2,
+				"name": "Mysore Palace",
+				"description": "The Mysore Palace, once the residence of the Wodeyars, is one of the largest palaces of its kind in India, and one of the most splendid. Built in Indo-Saracenic style with domes, turrets, arches and colonnades, the Palace is often compared with the Buckingham Palace of Britain because of its grandeur.",
+				"url": "https://lh3.googleusercontent.com/pRbRpEclp5mAjBm3dbC1A2htrrCpNpU-Dt_erjNnd21S6iomIl3noA1Fp2CIM7hTaVIHV-okhGjjPE2eIKLcnpYMM3RcZtCwZst8tLQQ4Kcw2hbsoHmcN8s43FO7_FazBYkLbDfQvdbbYxMtHvGleAKp8U-cCEjratFKm0y3YzcxLzcNYOPprEV56z5jJadIV-OA6lsehVbVMczqh1Jlu7beEY8qVj0qckqtWsxzpEnLi_7K4pk9BT-TQPCsHgFm6UvtR88p_8ntZgID735OibwUzV-co4MgeIVpBo3MI2o0FH7AJno2a9pK5uf0rY2BHRh0zvd62BG5M9AaCUk4jg8ci2lQKzD-0GaFb5zzWm0wTkt7RmJzS_lmaR0p3jGARb-3r1Q2oOxKq1hCVlCGzqOHJohaO98KPFwfQ3Z_Hj-W07Bg7PeyLVZcjJDAtmay1q9a069kJV1_qTs_AO9XUdaPwrVfioVqtUhIS7bD6ze63ac9CI-EBJC-R_LTKUZoAGc31bvWDRbwzwxiJAefw01FznqZ2RAxwXVOq5ZDfY3LUlrTlQYtw1RNM81hZEJKeNEU17tnNxUhPKHRXJkVXWsD2yphObCs7OhmZ8-g0AZFQqsLy-4FEOmJUphxZJgnLwm_fr39-pd325l7_bj3o9sZIaokDfYLTNhc4NFpnzO8IAVoK8oES6w07_zIraY5YXAZnz2y7C9X0w-XjLpo2V0=w615-h346-no?authuser=1",
+				"p1": "The sprawling city of Mysore is a delight to explore thanks to its eclectic mix of fine old colonial architecture; regal Indian palaces; and lush, well-manicured gardens. While those inclined towards shopping will enjoy spending time in the city's famous silk and sandalwood bazaars, the main attraction is magnificent Mysore Palace.",
+				"p2": "Mysore Palace is completely rebuilt in 1897 after a devastating fire, this beautiful three-storied palace features highlights such as its elegant square towers and domes; the many ornate ceilings and pillars in Durbar Hall; and the splendid Marriage Pavilion, with its glazed floor tiles, stunning stained glass, artworks, and displays of jewelry (it's also where, on special occasions, the exquisite Golden Throne is exhibited).",
+				"p3": "Attraction:For a real treat, be sure to catch one of the splendid light displays held each Sunday and during holidays, when the palace is illuminated by more than 90,000 lights. A fun way to explore the palace's massive grounds and gardens is as part of a cycle tour, available free once inside.",
+				"p4": "The Mysore Palace, once the residence of the Wodeyars, is one of the largest palaces of its kind in India, and one of the most splendid. Built in Indo-Saracenic style with domes, turrets, arches and colonnades, the Palace is often compared with the Buckingham Palace of Britain because of its grandeur.",
+				"nearByResturants": [
+					{
+						"id": "01",
+						"type": "veg/non-veg",
+						"name": "Is'Fahan Restaurant",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/17/77/3a/4f/la-gardenia-restaurant.jpg",
+						"rating": "",
+						"address": "14 - 15 Vinobha Road Hotel Southern Star Mysuru, Mysuru (Mysore) 570005 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g304553-d15351314-Reviews-Is_Fahan_Restaurant-Mysuru_Mysore_Mysore_District_Karnataka.html"
+					},
+					{
+						"id": "02",
+						"type": "veg/non-veg",
+						"name": "Hotel Ajantha",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/04/49/ad/50/hotel-ajantha.jpg",
+						"rating": "4/5",
+						"address": "Old Bank Road (Near Devaraja Main Market), Mysuru (Mysore) 570001 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g304553-d3834371-Reviews-Hotel_Ajantha-Mysuru_Mysore_Mysore_District_Karnataka.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "01",
+						"name": "Queens Comfort",
+						"imgUrl": "https://r1imghtlak.mmtcdn.com/be94db363ac311eb948a0242ac110004.jpg?&output-quality=75&downsize=520:350&crop=520:350;0,62&output-format=jpg",
+						"rating": "4/5",
+						"address": "#268 LAKSHMI VILAS ROAD,JAGANMOHAN PALACE CIRCLE,MYSORE-570024,KARNATAKA | 670 m from Mysore City Bus Stand",
+						"url": "https://www.makemytrip.com/hotels/hotel-details/?hotelId=201701171630593938&_uCurrency=INR&checkin=date_2&checkout=date_3&city=CTXMY&cmp=SEM%7CD%7CDH%7CG%7CNeighbourhood%7CDH_POI_Exact_Locus%7CCTXMY_POI62572_Mysore%20Palace%7CETA%7CRegular%7C465781792318&country=IN&ef_id=EAIaIQobChMIlP7l3-7r8QIVAR4rCh2r6gzpEAAYASAAEgK2q_D_BwE%3AG%3As&gclid=EAIaIQobChMIlP7l3-7r8QIVAR4rCh2r6gzpEAAYASAAEgK2q_D_BwE&lat=12.30605&lng=76.65048&locusId=CTXMY&locusType=city&mmPoiTag=POI%7CMysore%20Palace%7CPOI62572%7C&rank=3&roomStayQualifier=2e0e&s_kwcid=AL%211631%213%21465781792318%21e%21%21g%21%21hotels%20near%20mysore%20palace&mtkeys=defaultMtkey"
+					},
+					{
+						"id": "02",
+						"name": "Ocean Waves Mysore President",
+						"imgUrl": "https://r1imghtlak.mmtcdn.com/e0e84a22128511eab86c0242ac110002.png?&output-quality=75&downsize=520:350&crop=520:350;0,32&output-format=jpg",
+						"rating": "3.9/5",
+						"address": "2723, BN Road, banglore nilgiri Road, mysore karnataka | 350 m from Mysore City Bus Stand",
+						"url": "https://www.makemytrip.com/hotels/hotel-details/?hotelId=201911111126146214&_uCurrency=INR&checkin=date_2&checkout=date_3&city=CTXMY&cmp=SEM%7CD%7CDH%7CG%7CNeighbourhood%7CDH_POI_Exact_Locus%7CCTXMY_POI62572_Mysore%20Palace%7CETA%7CRegular%7C465781792318&country=IN&ef_id=EAIaIQobChMIlP7l3-7r8QIVAR4rCh2r6gzpEAAYASAAEgK2q_D_BwE%3AG%3As&gclid=EAIaIQobChMIlP7l3-7r8QIVAR4rCh2r6gzpEAAYASAAEgK2q_D_BwE&lat=12.30546&lng=76.65522&locusId=CTXMY&locusType=city&mmPoiTag=POI%7CMysore%20Palace%7CPOI62572%7C&rank=1&roomStayQualifier=2e0e&s_kwcid=AL%211631%213%21465781792318%21e%21%21g%21%21hotels%20near%20mysore%20palace&mtkeys=defaultMtkey"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 12,
+		"site": {
+			"state": "Uttar Pradesh",
+			"city": "Agra",
+			"places": {
+				"id": 2,
+				"name": "Agra Fort",
+				"description": "It was established by the Mughal emperor Akbar and, in its capacity as both a military base and a royal residence, served as the seat of government when the Mughal capital was in Agra.",
+				"url": "https://lh5.googleusercontent.com/p/AF1QipOkYav_5g64ZSXI90BNefWqu9DeGQdDeMTtxyQt=s546-k-no",
+				"p1": "The fort contains splendid palaces both in red sandstone and white marble built by two generations of prolific builders, Akbar and later on by Jahangir and Shahjahan. Of the nearly 500 Akbari buildings built in the Bengal and Gujarati traditions, only a few have survived, arrayed in a band on the riverfront.",
+				"p2": "Built as a military structure in 1565 by Emperor Akbar with later additions by Shah Jahan, the stunning Agra Fort (also known as Agra's Red Fort) is an interesting mix of both Hindu and Muslim influences. Located a little more than two kilometers from the Taj Mahal, the fort is entered through Amar Singh Gate with its low outer wall and dogleg design built to confuse attackers",
+				"p3": " Once inside, you'll see two large interlinked sandstone buildings, Akbari Mahal and Jahangiri Mahal, the largest private residence in the complex.",
+				"p4": "Other highlights include the Khas Mahal (Private Palace), with its splendid copper roof, and the Anguri Bagh (Grape Garden), a jigsaw-patterned Mughal garden with numerous wonderful fountains and water channels as well as screens that once offered a private area for the emperor and his entourage. Also of note is the octagonal Musamman Burj tower, which later served as Shah Jahan's prison until his death.",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "veg",
+						"name": "Tea'se Me",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1a/d0/e6/5d/section-3.jpg",
+						"rating": "5",
+						"address": "Fatehabad Road near purani mandi crossing Rooftop of Hotel M House, Agra 282001 ",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297683-d7789920-Reviews-Tea_se_Me-Agra_Agra_District_Uttar_Pradesh.html#REVIEWS"
+					},
+					{
+						"id": "2",
+						"type": "non-veg",
+						"name": "Restaurant at Trident",
+						"imgUrl": "https://www.tridenthotels.com/img/agra-restaurant-2.jpg",
+						"rating": "4.5",
+						"address": "Fatehabad Road, Agra 282001 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297683-d4039830-Reviews-Restaurant_at_Trident_Agra-Agra_Agra_District_Uttar_Pradesh.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "Hotel Alleviate",
+						"imgUrl": "https://image.wedmegood.com/resized/400X/uploads/member/734972/1569220648_Screenshot_from_2019_09_23_11_59_24.png",
+						"rating": "4",
+						"address": "6/27/1a Yamuna Kinara Road, Agra 282003 India",
+						"url": "https://www.tripadvisor.in/Hotel_Review-g297683-d6772837-Reviews-Hotel_Alleviate-Agra_Agra_District_Uttar_Pradesh.html"
+					},
+					{
+						"id": "2",
+						"name": "Holiday Inn Agra MG Road",
+						"imgUrl": "https://d4t7t8y8xqo0t.cloudfront.net/resized/720X280/restaurant%2F669681%2Frestaurant020191118090219.jpg",
+						"rating": "5",
+						"address": "16/2/8, Commercial Complex, Sanjay Place Mahatma Gandhi Road, Agra",
+						"url": "https://www.tripadvisor.in/Hotel_Review-g297683-d307325-Reviews-Holiday_Inn_Agra_MG_Road-Agra_Agra_District_Uttar_Pradesh.html"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 13,
+		"site": {
+			"state": "Punjab",
+			"city": "Amritsar",
+			"places": {
+				"id": 2,
+				"name": "The Golden Temple of Amritsar",
+				"description": "The Golden temple is located in the holy city of the Sikhs, Amritsar. The Golden temple is famous for its full golden dome, it is one of the most sacred pilgrim spots for Sikhs",
+
+				"url": "https://lh5.googleusercontent.com/p/AF1QipPUtbQeLYdqWRZsEJ_BjZzxkS5heweKqw6noKUe=s565-k-no",
+				"p1": "Maharaja Ranjit Singh had the upper half of the building built with approximately 400 kg of gold leaf. The Golden Temple is surrounded by a number of other famous temples like the Durgiana Temple.",
+				"p2": "It is here that Sage Valmiki wrote the epic, Ramayana. Rama and Sita are believed to have spent their fourteen-year exile in Amritsar, the epicenter of Sikhism",
+				"p3": "Amritsar has been chosen as one of the heritage cities for HRIDAY scheme of the Government of India. Amritsar is home to Harmandir Sahib, popularly known as 'the Golden Temple,' one of Sikhism's most spiritually significant and most-visited gurudwaras. The city is also known for its wooden chessboards and chess pieces manufacturing industry.",
+				"p4": "About Harmandir sahib ,In addition to its splendid design, visitors are equally impressed with the temple's spiritual atmosphere, an effect enhanced by the prayers continuously chanted from the Sikh holy book and broadcast throughout the complex. Part of the overall experience-and visitors are welcome to participate-is the chance to enjoy one of the 50,000 free meals the attraction serves up to visitors each and every day.",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "veg",
+						"name": "Brothers Dhaba",
+						"imgUrl": "https://content.jdmagicbox.com/comp/amritsar/w4/0183px183.x183.170114045216.n2w4/catalogue/brothers-dhaba-khandwala-amritsar-dhaba-restaurants-9stp7n7x42.jpg",
+						"rating": "4",
+						"address": "Golden Temple Out Road Near Town Hall, Amritsar India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g303884-d14086487-Reviews-Brothers_Dhaba-Amritsar_Amritsar_District_Punjab.html"
+					},
+					{
+						"id": "2",
+						"type": "non-veg",
+						"name": "Subway",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/c8/ef/7a/photo0jpg.jpg",
+						"rating": "3.5",
+						"address": "Golden Temple Road Near Golden Temple, Darbar Shaib, Amritsar 143001 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g303884-d9738007-Reviews-Subway-Amritsar_Amritsar_District_Punjab.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "Holiday Inn Amritsar Ranjit Avenue, an IHG Hotel",
+						"imgUrl": "https://digital.ihg.com/is/image/ihg/holiday-inn-amritsar-2533273746-4x3",
+						"rating": "4",
+						"address": "District Shopping Complex, Ranjit Avenue, 143001 Amritsar, India",
+						"url": "https://www.booking.com/hotel/in/holiday-inn-amritsar-ranjit-avenue-amritsar.en-gb.html?aid=356980;label=gog235jc-1BCAUobEINZ29sZGVuLXRlbXBsZUgzWANobIgBAZgBCbgBF8gBDNgBAegBAYgCAagCA7gCw-bPhwbAAgHSAiQyOGFiYTcwOS1lMjM5LTRlMTAtOGNhYS0xYTIzZTE1NTQ5ZWHYAgXgAgE;sid=d99d45058268d78b19aec068ce4e8fd3;sig=v1Sr8pA4_5"
+					},
+					{
+						"id": "2",
+						"name": "Ramada Amritsar",
+						"imgUrl": "https://cf.bstatic.com/xdata/images/hotel/max1024x768/181944608.jpg?k=07dad9ce03ffb57141c9fb607e41be702e0da8ae88493481b1854cfc62b3e82c&o=&hp=1",
+						"rating": "4",
+						"address": " 117/1 Hall Bazaar, 143006 Amritsar, India ",
+						"url": "https://www.booking.com/hotel/in/ramada-amritsar.en-gb.html?aid=356980;label=gog235jc-1BCAUobEINZ29sZGVuLXRlbXBsZUgzWANobIgBAZgBCbgBF8gBDNgBAegBAYgCAagCA7gCw-bPhwbAAgHSAiQyOGFiYTcwOS1lMjM5LTRlMTAtOGNhYS0xYTIzZTE1NTQ5ZWHYAgXgAgE;sid=d99d45058268d78b19aec068ce4e8fd3;sig=v1Sr8pA4_5"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 14,
+		"site": {
+			"state": "Kerala",
+			"city": "Madurai",
+			"places": {
+				"id": 2,
+				"name": "Periyar National Park",
+				"description": "One of South India's most popular tourist attractions, Periyar National Park and Wildlife Sanctuary is centered around a lake built by British engineers in 1895 for irrigation and to provide water to the city of Madurai. Established in 1934, this beautiful park is home to numerous species of mammals, including a large free-roaming Indian elephant population, wild boar, otters, the lion-tailed macaque, and more than 20 Bengal tigers. ",
+				"url": "https://lh5.googleusercontent.com/p/AF1QipNaP43sFjAlaE7PdJi9RxISpTsnDy9hR6cUawq7=s657-k-no",
+				"p1": "Bird watching is a popular activity with frequent sightings of species such as darters, storks, kingfishers, hornbills, and racket-tailed drongos, along with many interesting varieties of butterflies",
+				"p2": "The best ways to enjoy the park's splendid mountain scenery are to take a lake cruise or guided jungle walk, the latter allowing visitors a chance to come face to face with elephant herds and observe other wildlife from watchtowers and viewing platforms",
+				"p3": "The park is being adorned with a picturesque lake at the heart of the sanctuary which is an artificial 100 years old lake at Thekkady and is basically known for its wild elephants and thickly established Western Ghats forests. Many of the intense valleys of Periyar contain tropical evergreen forest with extremely thick tree cover with hardly any sun-rays to get penetrated. These trees are fully grown at the amazing heights of up to 130-140 feet.",
+				"p4": "Hot Tip: Be sure to stop at one of the many nearby spice, tea, or coffee plantations for a tour.",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "non-veg",
+						"name": "Bar-B-Que",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/09/ff/b0/7d/photo0jpg.jpg",
+						"rating": "4.5",
+						"address": "  K.K.Road, Kollampattada Near Periyar Hospital, Kumily, Thekkady India ",
+						"url": " https://www.tripadvisor.in/Restaurant_Review-g297636-d2054045-Reviews-Bar_B_Que-Thekkady_Idukki_District_Kerala.html"
+					},
+					{
+						"id": "2",
+						"type": "veg/non-veg",
+						"name": "Grandma's Cafe",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0d/6d/6f/69/grandma-s-cafe.jpg",
+						"rating": "4.5",
+						"address": "Thekkady Byepass Road near Green View Residency, Thekkady 685509 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297636-d7890434-Reviews-Grandma_s_Cafe-Thekkady_Idukki_District_Kerala.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "Hotel Sri Arulmuthu Residency",
+						"imgUrl": "https://lh3.googleusercontent.com/p/AF1QipNF_NHaS9SJ_7baPez1njZu-2WBsXBqskoZMg9u=w592-h404-n-k-rw-no-v1",
+						"rating": "4.0",
+						"address": "39 t b 625010, 39,T.B. Road, Arasaradi, Old Dindigul Rd, Somasundaram Nagar, Madurai, Tamil Nadu 625010 ",
+						"url": "https://www.google.com/travel/hotels/Madurai/entity/CgoIuJHZ2Y-36fITEAE/overview?g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4306835%2C4317915%2C4371334%2C4401769%2C4419364%2C4429192%2C4482438%2C4486153%2C4509341%2C4515404%2C4545890%2C4570610%2C4584145%2C4588449%2C4588561%2C4270859%2C4284970%2C4291517&hl=en-IN&gl=in&ssta=1&ap=aAE&q=hotels%20near%20Periyar%20National%20Park%20and%20Wildlife%20Sanctuary%2C%20Madurai&rp=ELiR2dmPt-nyExD8uZ2Bn8jV88EBENiy7_qf9rbCLRCR89i4gffq2Q44AUAASAKiARNNYWR1cmFpLCBUYW1pbCBOYWR1wAEDyAEA&ictx=1&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjlDxAHGBMSBwjlDxAHGBQYATICEAAqCQoFOgNJTlIaAA&ved=0CAAQ5JsGahcKEwj4k8XmpuzxAhUAAAAAHQAAAAAQIA"
+					},
+					{
+						"id": "2",
+						"name": "Gopuram Residency",
+						"imgUrl": "https://lh3.googleusercontent.com/p/AF1QipPxDfnW4MRxCdFQB5fEzRFnFfzPOUD9c6pt9NFT=w592-h404-n-k-rw-no-v1",
+						"rating": "4.6",
+						"address": "23, W Chitrai St, Madurai Main, Madurai, Tamil Nadu 625001",
+						"url": "https://www.google.com/travel/hotels/Madurai/entity/CgsI_LmdgZ_I1fPBARAB?g2lb=2502548%2C2503771%2C2503781%2C4258168%2C4270442%2C4306835%2C4317915%2C4371334%2C4401769%2C4419364%2C4429192%2C4482438%2C4486153%2C4509341%2C4515404%2C4545890%2C4570610%2C4584145%2C4588449%2C4588561%2C4270859%2C4284970%2C4291517&hl=en-IN&gl=in&ssta=1&ap=aAE&q=hotels%20near%20Periyar%20National%20Park%20and%20Wildlife%20Sanctuary%2C%20Madurai&rp=ELiR2dmPt-nyExD8uZ2Bn8jV88EBENiy7_qf9rbCLRCR89i4gffq2Q44AUAASAKiARNNYWR1cmFpLCBUYW1pbCBOYWR1wAEDyAEA&ictx=1&ved=0CAAQ5JsGahcKEwiItL6lp-zxAhUAAAAAHQAAAAAQCA&utm_campaign=sharing&utm_medium=link&utm_source=htls&ts=CAESABogCgIaABIaEhQKBwjlDxAHGBMSBwjlDxAHGBQYATICEAAqCQoFOgNJTlIaAA"
+					}
+				]
+			}
+		}
+	},
+	{
+		"id": 15,
+		"site": {
+			"state": "Uttar pradesh",
+			"city": "varansi",
+			"places": {
+				"id": 2,
+				"name": "Dasaswamedh Ghat",
+				"description": "It is located close to Vishwanath Temple and is probably the most spectacular ghat. Two Hindu legends are associated with it",
+				"url": "https://lh5.googleusercontent.com/p/AF1QipPYBqckzxrCE1F4WOzintDE7dnGkZzTWtAasyCW=s563-k-no",
+				"p1": " according to one, Brahma created it to welcome Shiva, and in another, Brahma sacrificed ten horses during Dasa-Ashwamedha yajna performed here.",
+				"p2": "Dashashwamedh Ghat is the heart of the action and the top attraction in Varanasi. One of the oldest and holiest Varanasi ghats, it's where the famous Ganga aarti takes place every evening.",
+				"p3": "This place is most famous for its Ganga arti ( a holy fire ritual), which is an elaborate and lively ceremony that takes place at dusk everyday. Amid blowing of conch shells, ringing of  bells, clanging of brass cymbals and chanting chorus of mantras, priests venerate the Ganga, the lifeline of Varanasi, with brass lamps that rise several tiers",
+				"p4": "The priests performing the arti are all draped in similar clothing-- a kurta and dhoti. The preparations for the arti include collecting five elevated planks, an idol of Goddess Ganga, flowers and incense sticks. Rituals of the arti are performed by those learned in the Vedas and Upanishads and are led by the head priest of the Gangotri Seva Samiti.",
+				"nearByResturants": [
+					{
+						"id": "1",
+						"type": "veg",
+						"name": "Dosa Cafe",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-s/03/57/98/e7/dosa-cafe.jpg",
+						"rating": "4.4",
+						"address": "Maan Mandir D 15/49 Dashaswamedh, Varanasi 221001 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297685-d3783592-Reviews-Dosa_Cafe-Varanasi_Varanasi_District_Uttar_Pradesh.html"
+					},
+					{
+						"id": "2",
+						"type": "non-veg",
+						"name": "Sushi Cafe & Continental Restaurant",
+						"imgUrl": "https://media-cdn.tripadvisor.com/media/photo-p/10/3a/8c/f8/we-serve-multicusine.jpg",
+						"rating": "4.3",
+						"address": "Bangali Tola Rd D-32,13/14 Bengali tola munshi ghat varanasi, Varanasi 221001 India",
+						"url": "https://www.tripadvisor.in/Restaurant_Review-g297685-d12657554-Reviews-Sushi_Cafe_Continental_Restaurant-Varanasi_Varanasi_District_Uttar_Pradesh.html"
+					}
+				],
+				"nearByHotels": [
+					{
+						"id": "1",
+						"name": "BrijRama Palace",
+						"imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/5d/0c/38/front-facade.jpg?w=1400&h=-1&s=1",
+						"rating": "4.8",
+						"address": "Darbhanga Ghat, near Munshi Ghat Dashashwamedh, Varanasi 221001 India",
+						"url": "https://www.tripadvisor.in/Hotel_Review-g297685-d8871544-Reviews-BrijRama_Palace-Varanasi_Varanasi_District_Uttar_Pradesh.html"
+					},
+					{
+						"id": "2",
+						"name": "Hotel Alka",
+						"imgUrl": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/cd/e7/32/hotel-view.jpg?w=600&h=-1&s=1",
+						"rating": "4",
+						"address": "Meer Ghat D 3/23 Dashashwamedh, Varanasi 221001 India",
+						"url": "https://www.tripadvisor.in/Hotel_Review-g297685-d652869-Reviews-Hotel_Alka-Varanasi_Varanasi_District_Uttar_Pradesh.html"
+					}
+				]
+			}
+		}
+	}
 ]

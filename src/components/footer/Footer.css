@@ -1,24 +1,32 @@
-.cpyrt {
-  font-size: 1.3rem;
-  color: grey;
+/* social plugins starts here */
+.social ul {
+  list-style-type: none;
+  /* border: 1px solid black; */
+  width: 15%;
+  margin: 10px auto;
+  margin-top: 40px;
+  display: flex;
+  justify-content: center;
+  justify-content: space-between;
+  position: relative;
+  right: 40px;
 }
 
-.footer_icons {
-  margin: auto 20px 10px;
+.social ul li {
+  padding: 1%;
+  /* border: 1px solid red; */
 }
 
-#footer {
-  font-family: 'Montserrat';
+/* social plugin ends here */
+
+/* footer starts here */
+
+.container-footer {
   text-align: center;
-  padding-top: 100px;
+  font-size: 1.4rem;
+  margin-bottom: 50px;
 }
-
-#footer a {
-  color: black;
-}
-
-.footer-container-fluid {
-  font-family: 'Montserrat';
-  text-align: center;
-  padding: 2% 15%;
+/* footer ends here */
+.container-footer img {
+  margin-left: 20px;
 }
